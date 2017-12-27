@@ -17420,10 +17420,6 @@
           <sigD>8</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17460,29 +17456,18 @@
           </Rest>
         </Measure>
       <Measure number="7">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="8">
-        <Harmony>
-          <root>13</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="9">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17495,29 +17480,18 @@
           </Rest>
         </Measure>
       <Measure number="11">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="12">
-        <Harmony>
-          <root>13</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="13">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17530,9 +17504,6 @@
           </Rest>
         </Measure>
       <Measure number="15">
-        <Harmony>
-          <root>16</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17545,29 +17516,18 @@
           </Rest>
         </Measure>
       <Measure number="17">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="18">
-        <Harmony>
-          <root>13</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="19">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17580,29 +17540,18 @@
           </Rest>
         </Measure>
       <Measure number="21">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="22">
-        <Harmony>
-          <root>13</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="23">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17615,29 +17564,18 @@
           </Rest>
         </Measure>
       <Measure number="25">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="26">
-        <Harmony>
-          <root>13</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="27">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17674,9 +17612,6 @@
           </Rest>
         </Measure>
       <Measure number="33">
-        <Harmony>
-          <root>15</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17735,10 +17670,6 @@
           </BarLine>
         </Measure>
       <Measure number="42">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17751,9 +17682,6 @@
           </Rest>
         </Measure>
       <Measure number="44">
-        <Harmony>
-          <root>11</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17766,9 +17694,6 @@
           </Rest>
         </Measure>
       <Measure number="46">
-        <Harmony>
-          <root>12</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17781,20 +17706,12 @@
           </Rest>
         </Measure>
       <Measure number="48">
-        <Harmony>
-          <root>16</root>
-          <name>dim</name>
-          <base>10</base>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="49">
-        <Harmony>
-          <root>15</root>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -17813,10 +17730,6 @@
           </Rest>
         </Measure>
       <Measure number="52">
-        <Harmony>
-          <root>14</root>
-          <name>m</name>
-          </Harmony>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -19860,6 +19773,10 @@
           <subtype>pp</subtype>
           <velocity>33</velocity>
           </Dynamic>
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -20352,6 +20269,9 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <Harmony>
+          <root>11</root>
+          </Harmony>
         <HairPin id="152">
           <subtype>0</subtype>
           <beginText>
@@ -20434,6 +20354,10 @@
           </Chord>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <root>13</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>16th</durationType>
           <Note>
@@ -20511,6 +20435,10 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           </Dynamic>
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <endSpanner id="152"/>
         <Chord>
           <dots>1</dots>
@@ -20553,6 +20481,9 @@
           </Rest>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>11</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20571,6 +20502,10 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>13</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20589,6 +20524,10 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20630,6 +20569,9 @@
           </Rest>
         </Measure>
       <Measure number="15">
+        <Harmony>
+          <root>16</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20678,6 +20620,9 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <Harmony>
+          <root>11</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20696,6 +20641,10 @@
           </Chord>
         </Measure>
       <Measure number="18">
+        <Harmony>
+          <root>13</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20714,6 +20663,10 @@
           </Chord>
         </Measure>
       <Measure number="19">
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20755,6 +20708,9 @@
           </Rest>
         </Measure>
       <Measure number="21">
+        <Harmony>
+          <root>11</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20773,6 +20729,10 @@
           </Chord>
         </Measure>
       <Measure number="22">
+        <Harmony>
+          <root>13</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -20818,6 +20778,10 @@
           </Chord>
         </Measure>
       <Measure number="23">
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -20929,6 +20893,9 @@
           <subtype>mf</subtype>
           <velocity>80</velocity>
           </Dynamic>
+        <Harmony>
+          <root>11</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20947,6 +20914,10 @@
           </Chord>
         </Measure>
       <Measure number="26">
+        <Harmony>
+          <root>13</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -20969,6 +20940,10 @@
           <subtype>f</subtype>
           <velocity>96</velocity>
           </Dynamic>
+        <Harmony>
+          <root>14</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -21182,6 +21157,9 @@
           </Rest>
         </Measure>
       <Measure number="33">
+        <Harmony>
+          <root>15</root>
+          </Harmony>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
