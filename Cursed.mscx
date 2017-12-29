@@ -3,7 +3,6 @@
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -47,6 +46,112 @@
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Cursed</metaTag>
     <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        </Page>
       <Page>
         <System>
           </System>
@@ -24232,16 +24337,6 @@
           <sigD>8</sigD>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
-        <Dynamic>
-          <subtype>pp</subtype>
-          <velocity>33</velocity>
-          <lid>4381</lid>
-          </Dynamic>
-        <Dynamic>
-          <subtype>pp</subtype>
-          <velocity>33</velocity>
-          <lid>4382</lid>
-          </Dynamic>
         <Harmony>
           <root>14</root>
           <name>m</name>
@@ -25427,11 +25522,6 @@
           <name>m</name>
           <lid>4410</lid>
           </Harmony>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>11181</lid>
-          </Dynamic>
         <Chord>
           <lid>11184</lid>
           <durationType>eighth</durationType>
@@ -25540,11 +25630,6 @@
           <name>m</name>
           <lid>11210</lid>
           </Harmony>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>11211</lid>
-          </Dynamic>
         <Chord>
           <lid>11214</lid>
           <durationType>eighth</durationType>
@@ -26225,9 +26310,9 @@
             </Note>
           </Chord>
         <Dynamic>
-          <subtype>mp</subtype>
-          <velocity>64</velocity>
-          <lid>11435</lid>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          <lid>11534</lid>
           </Dynamic>
         <Chord>
           <lid>11383</lid>
@@ -29583,6 +29668,7 @@
       </Staff>
     <Staff id="13">
       <Measure number="1">
+        <vspacerUp>3</vspacerUp>
         <KeySig>
           <lid>5033</lid>
           <accidental>-3</accidental>
@@ -29597,6 +29683,12 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>5035</lid>
+          </Dynamic>
+        <Dynamic>
+          <subtype>pp</subtype>
+          <velocity>33</velocity>
+          <lid>4382</lid>
+          <pos x="0.675873" y="-3.81007"/>
           </Dynamic>
         <Chord>
           <lid>5037</lid>
@@ -30514,6 +30606,13 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <vspacerUp>3</vspacerUp>
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          <lid>11181</lid>
+          <pos x="0.595305" y="-3.65629"/>
+          </Dynamic>
         <Chord>
           <lid>5240</lid>
           <durationType>eighth</durationType>
@@ -50595,9 +50694,19 @@
           <subtype>0</subtype>
           <lid>10526</lid>
           <Segment>
-            <subtype>0</subtype>
+            <subtype>1</subtype>
             <off2 x="0" y="0"/>
-            <pos x="1938.57" y="9.68173"/>
+            <pos x="19.5103" y="9.68173"/>
+            </Segment>
+          <Segment>
+            <subtype>2</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="19.2092" y="9.68173"/>
+            </Segment>
+          <Segment>
+            <subtype>3</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="13.5543" y="9.68173"/>
             </Segment>
           <beginText>
             <text>cresc.</text>
@@ -84147,11 +84256,6 @@
           <Dynamic>
             <subtype>pp</subtype>
             <velocity>33</velocity>
-            <lid>4381</lid>
-            </Dynamic>
-          <Dynamic>
-            <subtype>pp</subtype>
-            <velocity>33</velocity>
             <lid>4382</lid>
             </Dynamic>
           <Harmony>
@@ -85452,11 +85556,6 @@
             <name>m</name>
             <lid>11210</lid>
             </Harmony>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <lid>11211</lid>
-            </Dynamic>
           <Chord>
             <lid>11214</lid>
             <durationType>eighth</durationType>
@@ -86137,9 +86236,9 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>11435</lid>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <lid>11534</lid>
             </Dynamic>
           <Chord>
             <lid>11383</lid>
