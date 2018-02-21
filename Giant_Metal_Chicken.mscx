@@ -3,13 +3,14 @@
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <hideEmptyStaves>1</hideEmptyStaves>
+      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -47,6 +48,82 @@
     <metaTag name="workTitle">Giant Metal Chicken</metaTag>
     <PageList>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -650,6 +727,9 @@
           </Rest>
         </Measure>
       <Measure number="10">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -674,6 +754,9 @@
           </Rest>
         </Measure>
       <Measure number="14">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -690,6 +773,9 @@
           </Rest>
         </Measure>
       <Measure number="16">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -702,6 +788,9 @@
           </Rest>
         </Measure>
       <Measure number="18">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -781,6 +870,9 @@
           </Rest>
         </Measure>
       <Measure number="30">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -805,6 +897,9 @@
           </Rest>
         </Measure>
       <Measure number="34">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -979,6 +1074,10 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
@@ -987,6 +1086,9 @@
           </Rest>
         </Measure>
       <Measure number="60">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -999,6 +1101,9 @@
           </Rest>
         </Measure>
       <Measure number="62">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -4381,6 +4486,10 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
@@ -4837,11 +4946,13 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Dynamic>
+          <subtype>mp</subtype>
+          <velocity>64</velocity>
+          <pos x="0.546291" y="7.07181"/>
+          </Dynamic>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <text>No,</text>
-            </Lyrics>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -4849,9 +4960,6 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <text>no,</text>
-            </Lyrics>
           <Note>
             <pitch>62</pitch>
             <tpc>16</tpc>
@@ -4859,9 +4967,6 @@
           </Chord>
         <Chord>
           <durationType>16th</durationType>
-          <Lyrics>
-            <text>no,</text>
-            </Lyrics>
           <Note>
             <pitch>61</pitch>
             <tpc>21</tpc>
@@ -4870,9 +4975,6 @@
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <text>no,</text>
-            </Lyrics>
           <Note>
             <pitch>57</pitch>
             <tpc>17</tpc>
@@ -4880,9 +4982,6 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <text>no,</text>
-            </Lyrics>
           <Note>
             <Tie id="51">
               </Tie>
@@ -4902,9 +5001,6 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <text>no,</text>
-            </Lyrics>
           <Note>
             <pitch>54</pitch>
             <tpc>20</tpc>
@@ -5561,6 +5657,7 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -5630,6 +5727,7 @@
         <Dynamic>
           <subtype>mf</subtype>
           <velocity>80</velocity>
+          <pos x="0.329141" y="6.94118"/>
           </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
@@ -6185,6 +6283,10 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
@@ -6547,6 +6649,7 @@
           </Chord>
         </Measure>
       <Measure number="3">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>20</root>
           <name>m</name>
@@ -6608,6 +6711,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -6752,6 +6856,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -6858,6 +6963,7 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>16</root>
           </Harmony>
@@ -6899,11 +7005,6 @@
         <Harmony>
           <root>16</root>
           </Harmony>
-        <Dynamic>
-          <subtype>mp</subtype>
-          <velocity>64</velocity>
-          <pos x="6.05522" y="-1.61767"/>
-          </Dynamic>
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -7378,6 +7479,7 @@
           </BarLine>
         </Measure>
       <Measure number="23">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -8151,6 +8253,7 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>20</root>
           <name>m</name>
@@ -8246,9 +8349,6 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <root>18</root>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8264,9 +8364,6 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <root>18</root>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8282,9 +8379,6 @@
             <tpc>22</tpc>
             </Note>
           </Chord>
-        <Harmony>
-          <root>18</root>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -8849,6 +8943,7 @@
           </Chord>
         </Measure>
       <Measure number="50">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>20</root>
           <name>m</name>
@@ -9210,6 +9305,10 @@
             <tpc>20</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Harmony>
@@ -11207,6 +11306,10 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Chord>
@@ -11923,6 +12026,10 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
