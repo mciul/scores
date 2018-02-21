@@ -5314,44 +5314,17 @@
           <durationType>quarter</durationType>
           </Rest>
         <Rest>
-          <durationType>quarter</durationType>
+          <durationType>half</durationType>
           </Rest>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>45</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <Tie id="58">
-              </Tie>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="28">
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <endSpanner id="58"/>
-            <pitch>47</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>49</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
         <Rest>
-          <durationType>quarter</durationType>
+          <durationType>half</durationType>
           </Rest>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -5476,12 +5449,11 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
+            <Tie id="58">
+              </Tie>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5489,6 +5461,7 @@
           <Note>
             <Tie id="59">
               </Tie>
+            <endSpanner id="58"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -5496,13 +5469,22 @@
         </Measure>
       <Measure number="31">
         <Chord>
-          <durationType>whole</durationType>
+          <durationType>eighth</durationType>
           <Note>
             <endSpanner id="59"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
+          </Rest>
         </Measure>
       <Measure number="32">
         <Rest>
@@ -5995,18 +5977,8 @@
         </Measure>
       <Measure number="45">
         <Rest>
-          <durationType>quarter</durationType>
+          <durationType>half</durationType>
           </Rest>
-        <Chord>
-          <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>61</pitch>
-            <tpc>21</tpc>
-            </Note>
-          </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -6033,8 +6005,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
