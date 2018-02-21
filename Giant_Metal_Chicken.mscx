@@ -5051,16 +5051,9 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
-        <Chord>
+        <Rest>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
-          <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -10518,6 +10511,9 @@
             <tpc>21</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -10528,15 +10524,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>40</pitch>
+            <pitch>28</pitch>
             <tpc>18</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
             </Note>
           </Chord>
         <Chord>
