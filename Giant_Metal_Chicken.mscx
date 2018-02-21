@@ -3,7 +3,6 @@
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -48,6 +47,86 @@
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Giant Metal Chicken</metaTag>
     <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
       <Page>
         <System>
           </System>
@@ -874,6 +953,9 @@
           </Rest>
         </Measure>
       <Measure number="41">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -886,6 +968,9 @@
           </Rest>
         </Measure>
       <Measure number="43">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
@@ -5220,6 +5305,7 @@
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
+          <pos x="0.223258" y="6.72941"/>
           </Dynamic>
         <Chord>
           <durationType>half</durationType>
@@ -5311,6 +5397,7 @@
         <Dynamic>
           <subtype>p</subtype>
           <velocity>49</velocity>
+          <pos x="2.2274" y="6.2"/>
           </Dynamic>
         <Rest>
           <durationType>quarter</durationType>
@@ -5337,6 +5424,7 @@
           </Chord>
         </Measure>
       <Measure number="29">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
@@ -5526,6 +5614,7 @@
         <Dynamic>
           <subtype>mp</subtype>
           <velocity>64</velocity>
+          <pos x="0.658281" y="6.94118"/>
           </Dynamic>
         <Chord>
           <durationType>half</durationType>
@@ -6477,6 +6566,7 @@
       </Staff>
     <Staff id="4">
       <Measure number="1">
+        <vspacerUp>3</vspacerUp>
         <KeySig>
           <accidental>3</accidental>
           </KeySig>
@@ -6722,6 +6812,7 @@
           </Chord>
         </Measure>
       <Measure number="7">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>20</root>
           <name>m</name>
@@ -7504,6 +7595,7 @@
           </Chord>
         </Measure>
       <Measure number="25">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>20</root>
           <name>m</name>
@@ -7973,6 +8065,7 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>17</root>
           </Harmony>
