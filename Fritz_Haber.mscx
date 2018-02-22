@@ -5915,7 +5915,7 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
             <text>tions</text>
@@ -5925,29 +5925,31 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <text>used</text>
-            </Lyrics>
-          <Note>
-            <Tie id="25">
-              </Tie>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            </Note>
-          </Chord>
         </Measure>
       <Measure number="165">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
+          <Lyrics>
+            <text>used</text>
+            </Lyrics>
           <Note>
-            <endSpanner id="25"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Rest>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        </Measure>
+      <Measure number="166">
+        <Rest>
+          <dots>1</dots>
+          <durationType>quarter</durationType>
+          </Rest>
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
@@ -5973,9 +5975,9 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="166">
+      <Measure number="167">
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
             <text>ter</text>
@@ -5986,10 +5988,10 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>16th</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
-            <syllabic>middle</syllabic>
-            <text>mi</text>
+            <syllabic>begin</syllabic>
+            <text>min</text>
             </Lyrics>
           <Note>
             <pitch>60</pitch>
@@ -5997,13 +5999,13 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <syllabic>end</syllabic>
-            <text>nate</text>
+            <text>ate</text>
             </Lyrics>
           <Note>
-            <Tie id="26">
+            <Tie id="25">
               </Tie>
             <pitch>60</pitch>
             <tpc>14</tpc>
@@ -6012,7 +6014,7 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="26"/>
+            <endSpanner id="25"/>
             <pitch>60</pitch>
             <tpc>14</tpc>
             </Note>
@@ -6028,7 +6030,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="167">
+      <Measure number="168">
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -6047,7 +6049,7 @@
             <text>ple</text>
             </Lyrics>
           <Note>
-            <Tie id="27">
+            <Tie id="26">
               </Tie>
             <pitch>57</pitch>
             <tpc>17</tpc>
@@ -6056,7 +6058,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="27"/>
+            <endSpanner id="26"/>
             <pitch>57</pitch>
             <tpc>17</tpc>
             </Note>
@@ -6082,7 +6084,7 @@
             </Note>
           </Chord>
         </Measure>
-      <Measure number="168">
+      <Measure number="169">
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
@@ -6099,12 +6101,6 @@
           </Rest>
         <Rest>
           <durationType>quarter</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="169">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
           </Rest>
         </Measure>
       <Measure number="170">
@@ -6335,7 +6331,7 @@
             <text>you?</text>
             </Lyrics>
           <Note>
-            <Tie id="28">
+            <Tie id="27">
               </Tie>
             <pitch>53</pitch>
             <tpc>13</tpc>
@@ -6345,7 +6341,7 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <endSpanner id="28"/>
+            <endSpanner id="27"/>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
