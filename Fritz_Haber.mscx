@@ -538,9 +538,9 @@
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
         <Tempo>
-          <tempo>2</tempo>
+          <tempo>2.05</tempo>
           <followText>1</followText>
-          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 80</text>
+          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 82</text>
           </Tempo>
         <Rest>
           <durationType>measure</durationType>
@@ -5514,6 +5514,11 @@
           </Rest>
         </Measure>
       <Measure number="154">
+        <Tempo>
+          <tempo>1.875</tempo>
+          <followText>1</followText>
+          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 75</text>
+          </Tempo>
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -6130,6 +6135,11 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
+        <Tempo>
+          <tempo>2.05</tempo>
+          <followText>1</followText>
+          <text><sym>unicodeNoteQuarterUp</sym><sym>space</sym><sym>unicodeAugmentationDot</sym> = 82</text>
+          </Tempo>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
