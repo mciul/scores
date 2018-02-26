@@ -7982,32 +7982,36 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
+        <Dynamic>
+          <subtype>p</subtype>
+          <velocity>49</velocity>
+          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -8016,29 +8020,29 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>65</pitch>
-            <tpc>13</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -8072,17 +8076,10 @@
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
+          <durationType>quarter</durationType>
           <Note>
             <pitch>60</pitch>
             <tpc>14</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <durationType>eighth</durationType>
-          <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -8098,8 +8095,8 @@
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Rest>
