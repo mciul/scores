@@ -1585,6 +1585,9 @@
             </Note>
           </Chord>
         <Rest>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
           <durationType>eighth</durationType>
           </Rest>
         <Chord>
@@ -1618,8 +1621,7 @@
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
-          <durationType>quarter</durationType>
+          <durationType>eighth</durationType>
           <Lyrics>
             <text>said:</text>
             </Lyrics>
