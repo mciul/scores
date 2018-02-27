@@ -10,6 +10,7 @@
     <Division>480</Division>
     <Style>
       <concertPitch>1</concertPitch>
+      <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -26,7 +27,7 @@
           <bottom-margin>113.386</bottom-margin>
           </page-margins>
         </page-layout>
-      <Spatium>1.364</Spatium>
+      <Spatium>1.164</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -53,8 +54,14 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -65,20 +72,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -89,20 +88,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -113,20 +104,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -137,20 +120,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -161,20 +136,16 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
+        <System>
+          </System>
         <System>
           </System>
         <System>
@@ -185,20 +156,12 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
         <System>
           </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
         <System>
           </System>
         <System>
@@ -266,6 +229,7 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>B♭ Trumpet</trackName>
       <Instrument>
         <longName>B♭ Trumpet</longName>
@@ -324,6 +288,7 @@
         <defaultClef>F</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Trombone</trackName>
       <Instrument>
         <longName>Trombone</longName>
@@ -441,6 +406,7 @@
         <defaultTransposingClef>F</defaultTransposingClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Bass Guitar</trackName>
       <Instrument>
         <longName>Bass Guitar</longName>
@@ -506,6 +472,7 @@
         <defaultClef>PERC</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Drumset</trackName>
       <Instrument>
         <longName>Drumset</longName>
@@ -3593,7 +3560,7 @@
           <durationType>16th</durationType>
           <Lyrics>
             <syllabic>middle</syllabic>
-            <pos x="0.989058" y="8"/>
+            <pos x="0.843479" y="8"/>
             <text>oh</text>
             </Lyrics>
           <Note>
@@ -7689,10 +7656,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="9">
         <Rest>
@@ -7753,10 +7716,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="19">
         <Rest>
@@ -8132,10 +8091,6 @@
             <tpc2>16</tpc2>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="27">
         <Rest>
@@ -8660,10 +8615,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="58">
         <Rest>
@@ -9043,10 +8994,6 @@
             <tpc2>16</tpc2>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="66">
         <Rest>
@@ -9393,10 +9340,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="96">
         <Rest>
@@ -9776,10 +9719,6 @@
             <tpc2>16</tpc2>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="104">
         <Dynamic>
@@ -12532,10 +12471,6 @@
             <tpc2>19</tpc2>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="3">
@@ -12594,10 +12529,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="9">
         <Rest>
@@ -12658,10 +12589,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="19">
         <Rest>
@@ -13008,10 +12935,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="27">
         <Rest>
@@ -13506,10 +13429,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="58">
         <Rest>
@@ -13860,10 +13779,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="66">
         <Rest>
@@ -14195,10 +14110,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="96">
         <Rest>
@@ -14549,10 +14460,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="104">
         <vspacerUp>3.18257</vspacerUp>
@@ -17094,10 +17001,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="4">
@@ -20430,7 +20333,7 @@
           </BarLine>
         </Measure>
       <Measure number="27">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>3.23772</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-4.28653"/>
@@ -20602,7 +20505,7 @@
           </Chord>
         </Measure>
       <Measure number="31">
-        <vspacerUp>5.70518</vspacerUp>
+        <vspacerUp>3.37323</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-4.4691"/>
@@ -20774,7 +20677,7 @@
           </Chord>
         </Measure>
       <Measure number="35">
-        <vspacerUp>5.15748</vspacerUp>
+        <vspacerUp>3.55297</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-4.4691"/>
@@ -21177,7 +21080,7 @@
           </Chord>
         </Measure>
       <Measure number="43">
-        <vspacerUp>6.61801</vspacerUp>
+        <vspacerUp>4.97492</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -22102,7 +22005,7 @@
         <vspacerUp>3.87952</vspacerUp>
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="-0.132673" y="-4.92551"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -22150,7 +22053,7 @@
       <Measure number="52">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0" y="-4.23664"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -22247,7 +22150,7 @@
       <Measure number="54">
         <Harmony>
           <root>12</root>
-          <pos x="0" y="-4.33529"/>
+          <pos x="-0.273849" y="-3.2399"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -22292,7 +22195,7 @@
           </Chord>
         </Measure>
       <Measure number="55">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>2.91682</vspacerUp>
         <Harmony>
           <root>16</root>
           <name>m</name>
@@ -22399,10 +22302,10 @@
           </BarLine>
         </Measure>
       <Measure number="58">
-        <vspacerUp>6.07031</vspacerUp>
+        <vspacerUp>3.60567</vspacerUp>
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.415025" y="-4.92551"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -22546,7 +22449,7 @@
       <Measure number="59">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="-0.132673" y="-4.85974"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -24145,7 +24048,7 @@
       <Measure number="71">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0.273849" y="-4.78433"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -26254,7 +26157,7 @@
           </Chord>
         </Measure>
       <Measure number="86">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>5.24876</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -27822,7 +27725,7 @@
           </BarLine>
         </Measure>
       <Measure number="96">
-        <vspacerUp>6.80057</vspacerUp>
+        <vspacerUp>4.14772</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -28399,7 +28302,7 @@
           </Chord>
         </Measure>
       <Measure number="100">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>3.23772</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -28839,7 +28742,7 @@
           </BarLine>
         </Measure>
       <Measure number="104">
-        <vspacerUp>6.83388</vspacerUp>
+        <vspacerUp>3.90718</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -28986,7 +28889,7 @@
       <Measure number="105">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="-0.406521" y="-5.22488"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -29235,7 +29138,7 @@
       <Measure number="107">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-6.17059"/>
+          <pos x="0" y="-5.0752"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -29407,7 +29310,7 @@
           </Chord>
         </Measure>
       <Measure number="108">
-        <vspacerUp>7.74671</vspacerUp>
+        <vspacerUp>4.41347</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -29554,7 +29457,7 @@
       <Measure number="109">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="-0.132673" y="-5.22488"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -29819,7 +29722,7 @@
       <Measure number="111">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-6.17059"/>
+          <pos x="0" y="-5.0752"/>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -30249,7 +30152,7 @@
           </Chord>
         </Measure>
       <Measure number="115">
-        <vspacerUp>6.61801</vspacerUp>
+        <vspacerUp>3.87952</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.0168"/>
@@ -30807,7 +30710,7 @@
           </Chord>
         </Measure>
       <Measure number="119">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>3.55862</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.0168"/>
@@ -31389,7 +31292,7 @@
           </Chord>
         </Measure>
       <Measure number="123">
-        <vspacerUp>2.18257</vspacerUp>
+        <vspacerUp>3.27796</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.0168"/>
@@ -31947,7 +31850,7 @@
           </Chord>
         </Measure>
       <Measure number="127">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>3.23772</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -33981,7 +33884,7 @@
       <Measure number="141">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="0.141176" y="-5.77257"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34315,11 +34218,11 @@
           </Chord>
         </Measure>
       <Measure number="143">
-        <vspacerUp>6.43544</vspacerUp>
+        <vspacerUp>3.54733</vspacerUp>
         <Harmony>
           <root>16</root>
           <name>m</name>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0" y="-4.32227"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34367,7 +34270,7 @@
       <Measure number="144">
         <Harmony>
           <root>14</root>
-          <pos x="0.141176" y="-5.32353"/>
+          <pos x="0.141176" y="-4.03992"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34415,7 +34318,7 @@
       <Measure number="145">
         <Harmony>
           <root>12</root>
-          <pos x="-0.141176" y="-5.60588"/>
+          <pos x="-0.141176" y="-4.00137"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34515,10 +34418,10 @@
           </Chord>
         </Measure>
       <Measure number="148">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>2</vspacerUp>
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.141176" y="-4.78436"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34662,7 +34565,7 @@
       <Measure number="149">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="0.141176" y="-4.39768"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34806,7 +34709,7 @@
       <Measure number="150">
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="-0.179726" y="-4.78436"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -34950,7 +34853,7 @@
       <Measure number="151">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="-0.500627" y="-4.98961"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -35527,6 +35430,7 @@
           </Chord>
         </Measure>
       <Measure number="156">
+        <vspacerUp>2.0373</vspacerUp>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -35722,6 +35626,7 @@
           </Chord>
         </Measure>
       <Measure number="160">
+        <vspacerUp>2</vspacerUp>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -35917,6 +35822,7 @@
           </Chord>
         </Measure>
       <Measure number="164">
+        <vspacerUp>2</vspacerUp>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -36112,6 +36018,7 @@
           </Chord>
         </Measure>
       <Measure number="168">
+        <vspacerUp>2</vspacerUp>
         <Harmony>
           <root>13</root>
           </Harmony>
@@ -36398,7 +36305,7 @@
           </Chord>
         </Measure>
       <Measure number="174">
-        <vspacerUp>7.01645</vspacerUp>
+        <vspacerUp>4.00411</vspacerUp>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -36411,7 +36318,7 @@
       <Measure number="175">
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="-0.132673" y="-4.92551"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -36528,7 +36435,7 @@
       <Measure number="176">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="0.141176" y="-4.12948"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -36731,7 +36638,7 @@
       <Measure number="178">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-6.17059"/>
+          <pos x="0" y="-4.80135"/>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -36888,7 +36795,7 @@
       <Measure number="180">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="0.141176" y="-5.22488"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -37003,7 +36910,7 @@
           </Rest>
         </Measure>
       <Measure number="181">
-        <vspacerUp>11.2155</vspacerUp>
+        <vspacerUp>2.3209</vspacerUp>
         <Harmony>
           <root>16</root>
           <name>m</name>
@@ -37092,7 +36999,7 @@
       <Measure number="182">
         <Harmony>
           <root>15</root>
-          <pos x="0" y="-6.17059"/>
+          <pos x="0.273849" y="-5.0752"/>
           </Harmony>
         <Chord>
           <dots>1</dots>
@@ -37213,7 +37120,7 @@
       <Measure number="183">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0.273849" y="-4.78433"/>
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
@@ -37360,7 +37267,7 @@
       <Measure number="185">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="-0.132673" y="-4.95103"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -37694,10 +37601,10 @@
           </Chord>
         </Measure>
       <Measure number="187">
-        <vspacerUp>8.29441</vspacerUp>
+        <vspacerUp>4.73437</vspacerUp>
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="0.141176" y="-5.22488"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -38031,7 +37938,7 @@
           </Chord>
         </Measure>
       <Measure number="189">
-        <vspacerUp>7.1657</vspacerUp>
+        <vspacerUp>4.42722</vspacerUp>
         <Harmony>
           <root>12</root>
           <pos x="0.141176" y="-5.31616"/>
@@ -38410,7 +38317,7 @@
           </Chord>
         </Measure>
       <Measure number="192">
-        <vspacerUp>8.11184</vspacerUp>
+        <vspacerUp>5.3263</vspacerUp>
         <Harmony>
           <root>12</root>
           <pos x="0.141176" y="-6.59412"/>
@@ -38749,7 +38656,7 @@
       <Measure number="194">
         <Harmony>
           <root>12</root>
-          <pos x="0.141176" y="-6.59412"/>
+          <pos x="-0.132673" y="-5.22488"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -39251,7 +39158,7 @@
           </Chord>
         </Measure>
       <Measure number="197">
-        <vspacerUp>8.11184</vspacerUp>
+        <vspacerUp>5.50604</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -40015,7 +39922,7 @@
           </Chord>
         </Measure>
       <Measure number="203">
-        <vspacerUp>7.65954</vspacerUp>
+        <vspacerUp>4.5531</vspacerUp>
         <Harmony>
           <root>14</root>
           <pos x="0.141176" y="-5.32353"/>
@@ -40632,7 +40539,7 @@
           </Chord>
         </Measure>
       <Measure number="210">
-        <vspacerUp>8.29441</vspacerUp>
+        <vspacerUp>4.46053</vspacerUp>
         <Harmony>
           <root>12</root>
           <pos x="0.141176" y="-6.59412"/>
@@ -40801,7 +40708,7 @@
           </Chord>
         </Measure>
       <Measure number="211">
-        <vspacerUp>7.53083</vspacerUp>
+        <vspacerUp>4.96362</vspacerUp>
         <Harmony>
           <root>13</root>
           <pos x="0.141176" y="-5.74706"/>
@@ -41628,10 +41535,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="9">
         <Chord>
@@ -41949,10 +41852,6 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="19">
         <Chord>
@@ -42349,10 +42248,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="27">
         <Chord>
@@ -43269,10 +43164,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="58">
         <Chord>
@@ -43673,10 +43564,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="66">
         <Chord>
@@ -44708,10 +44595,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="96">
         <Chord>
@@ -45112,10 +44995,6 @@
             <tpc>18</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="104">
         <Chord>
@@ -48771,10 +48650,6 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="6">
@@ -48830,10 +48705,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="9">
         <Rest>
@@ -48894,10 +48765,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="19">
         <Rest>
@@ -48946,10 +48813,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="27">
         <Rest>
@@ -49136,10 +48999,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="58">
         <Rest>
@@ -49188,10 +49047,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="66">
         <Rest>
@@ -49372,10 +49227,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="96">
         <Rest>
@@ -49424,10 +49275,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="104">
         <Rest>
@@ -50094,10 +49941,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     </Score>
