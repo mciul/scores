@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <concertPitch>1</concertPitch>
       <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1584</page-height>
@@ -1194,6 +1195,9 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>half</durationType>
@@ -7617,7 +7621,7 @@
     <Staff id="2">
       <Measure number="1">
         <KeySig>
-          <accidental>1</accidental>
+          <accidental>-1</accidental>
           </KeySig>
         <TimeSig>
           <sigN>6</sigN>
@@ -7957,9 +7961,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7968,9 +7972,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -7982,9 +7986,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -7993,9 +7997,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -8868,9 +8872,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -8879,9 +8883,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -8893,9 +8897,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -8904,9 +8908,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -9601,9 +9605,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -9612,9 +9616,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -9626,9 +9630,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -9637,9 +9641,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -19222,7 +19226,7 @@
       <Measure number="17">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0" y="-4.00137"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
