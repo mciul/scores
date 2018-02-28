@@ -266,10 +266,12 @@
           </Articulation>
         <Channel>
           <program value="56"/>
+          <controller ctrl="7" value="127"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="mute">
           <program value="59"/>
+          <controller ctrl="7" value="93"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -323,6 +325,7 @@
           </Articulation>
         <Channel>
           <program value="57"/>
+          <controller ctrl="7" value="80"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
