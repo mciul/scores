@@ -42427,16 +42427,16 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>31</pitch>
-            <tpc>15</tpc>
+            <pitch>29</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>29</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -42678,16 +42678,16 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>29</pitch>
-            <tpc>13</tpc>
+            <pitch>31</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>29</pitch>
-            <tpc>13</tpc>
+            <pitch>33</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
