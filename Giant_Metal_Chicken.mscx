@@ -10,7 +10,6 @@
     <Division>480</Division>
     <Style>
       <hideEmptyStaves>1</hideEmptyStaves>
-      <dontHidStavesInFirstSystm>0</dontHidStavesInFirstSystm>
       <page-layout>
         <page-height>1584</page-height>
         <page-width>1224</page-width>
@@ -97,6 +96,7 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Alto</trackName>
       <Instrument>
         <longName>Alto</longName>
@@ -257,7 +257,8 @@
         </Staff>
       <trackName>Electric Guitar</trackName>
       <Instrument>
-        <longName>Electric Guitar</longName>
+        <longName>Electric Slide Guitar
+(Standard Tuning)</longName>
         <shortName>El. Guit.</shortName>
         <trackName>Electric Guitar</trackName>
         <minPitchP>40</minPitchP>
@@ -382,6 +383,7 @@
         <defaultClef>PERC</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Drumset</trackName>
       <Instrument>
         <longName>Drumset</longName>
@@ -717,10 +719,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="15">
         <Rest>
@@ -775,10 +773,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="23">
         <Rest>
@@ -890,10 +884,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="40">
         <Rest>
@@ -948,10 +938,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="48">
         <Rest>
@@ -1027,10 +1013,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
@@ -1082,10 +1064,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -8144,6 +8122,9 @@
           </Harmony>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>prallprall</subtype>
+            </Articulation>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -8159,6 +8140,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>prallprall</subtype>
+            </Articulation>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -8174,6 +8158,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>prallprall</subtype>
+            </Articulation>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -8189,6 +8176,9 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>prallprall</subtype>
+            </Articulation>
           <Note>
             <pitch>59</pitch>
             <tpc>19</tpc>
@@ -11551,10 +11541,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="15">
         <Rest>
@@ -11603,10 +11589,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="23">
         <Rest>
@@ -11709,10 +11691,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="40">
         <Rest>
@@ -11761,10 +11739,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="48">
         <Rest>
@@ -11831,10 +11805,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>double</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       <Measure number="59">
         <Rest>
@@ -11883,10 +11853,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     </Score>
