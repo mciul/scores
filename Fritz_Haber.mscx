@@ -3436,8 +3436,8 @@
             <text>But</text>
             </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3446,8 +3446,8 @@
             <text>Carl</text>
             </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3457,8 +3457,8 @@
             <text>Bosch</text>
             </Lyrics>
           <Note>
-            <pitch>57</pitch>
-            <tpc>17</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3468,8 +3468,8 @@
             <text>be</text>
             </Lyrics>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -32473,7 +32473,7 @@
         <vspacerUp>3.87952</vspacerUp>
         <Harmony>
           <root>13</root>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="-0.0727584" y="-4.24952"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
@@ -32641,7 +32641,7 @@
       <Measure number="132">
         <Harmony>
           <root>14</root>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0.427869" y="-3.2526"/>
           </Harmony>
         <Chord>
           <durationType>eighth</durationType>
