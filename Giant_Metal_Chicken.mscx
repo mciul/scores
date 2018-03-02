@@ -8117,9 +8117,6 @@
           </Chord>
         </Measure>
       <Measure number="39">
-        <Harmony>
-          <root>18</root>
-          </Harmony>
         <Chord>
           <durationType>quarter</durationType>
           <Articulation>
