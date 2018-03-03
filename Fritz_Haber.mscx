@@ -33,7 +33,7 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Mike Ciul</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-02-21</metaTag>
     <metaTag name="lyricist"></metaTag>

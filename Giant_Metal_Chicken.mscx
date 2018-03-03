@@ -33,10 +33,10 @@
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composer"></metaTag>
+    <metaTag name="composer">Robert M Lowe and Mike Ciul</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2018-02-19</metaTag>
-    <metaTag name="lyricist"></metaTag>
+    <metaTag name="lyricist">Mike Ciul</metaTag>
     <metaTag name="movementNumber"></metaTag>
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
