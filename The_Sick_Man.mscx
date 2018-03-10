@@ -6830,8 +6830,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>33</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -6873,8 +6873,8 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>38</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -6900,8 +6900,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>28</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
