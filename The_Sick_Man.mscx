@@ -6866,9 +6866,6 @@
           </Rest>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <text>Give</text>
-            </Lyrics>
           <Note>
             <Tie id="76">
               </Tie>
@@ -6886,9 +6883,6 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <text>me</text>
-            </Lyrics>
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
@@ -6896,10 +6890,6 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Lyrics>
-            <syllabic>begin</syllabic>
-            <text>can</text>
-            </Lyrics>
           <Note>
             <Tie id="77">
               </Tie>
@@ -6919,10 +6909,6 @@
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
-          <Lyrics>
-            <syllabic>end</syllabic>
-            <text>dy!</text>
-            </Lyrics>
           <Note>
             <pitch>86</pitch>
             <tpc>16</tpc>
@@ -6937,10 +6923,6 @@
         <Rest>
           <durationType>eighth</durationType>
           </Rest>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
@@ -7150,10 +7132,6 @@
             <tpc>19</tpc>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
