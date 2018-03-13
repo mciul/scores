@@ -89,6 +89,7 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Soprano</trackName>
       <Instrument>
         <longName>Soprano</longName>
@@ -141,6 +142,7 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Alto</trackName>
       <Instrument>
         <longName>Alto</longName>
@@ -247,6 +249,7 @@
         <defaultClef>F</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Bass</trackName>
       <Instrument>
         <longName>Bass</longName>
@@ -559,6 +562,7 @@
         <defaultClef>PERC</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
+      <show>0</show>
       <trackName>Drumset</trackName>
       <Instrument>
         <longName>Drumset</longName>
@@ -9465,10 +9469,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>p</subtype>
-          <velocity>49</velocity>
-          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
@@ -9927,10 +9927,6 @@
           </Chord>
         </Measure>
       <Measure number="34">
-        <Dynamic>
-          <subtype>p</subtype>
-          <velocity>49</velocity>
-          </Dynamic>
         <Harmony>
           <root>17</root>
           </Harmony>
@@ -9967,10 +9963,6 @@
           </BarLine>
         </Measure>
       <Measure number="35">
-        <Dynamic>
-          <subtype>p</subtype>
-          <velocity>49</velocity>
-          </Dynamic>
         <Chord>
           <durationType>whole</durationType>
           <Articulation>
@@ -9991,9 +9983,6 @@
             <pitch>69</pitch>
             <tpc>17</tpc>
             </Note>
-          <Arpeggio>
-            <subtype>1</subtype>
-            </Arpeggio>
           </Chord>
         </Measure>
       <Measure number="36">
@@ -10377,14 +10366,6 @@
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>p</subtype>
-          <velocity>49</velocity>
-          </Dynamic>
-        <Dynamic>
-          <subtype>p</subtype>
-          <velocity>49</velocity>
-          </Dynamic>
         <Chord>
           <durationType>eighth</durationType>
           <Articulation>
