@@ -55,20 +55,8 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
-        <System>
-          </System>
         </Page>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         <System>
@@ -83,8 +71,32 @@
           </System>
         <System>
           </System>
+        </Page>
+      <Page>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         </Page>
@@ -96,7 +108,6 @@
           </StaffType>
         <bracket type="0" span="3"/>
         </Staff>
-      <show>0</show>
       <trackName>Soprano</trackName>
       <Instrument>
         <longName>Soprano</longName>
@@ -250,7 +261,7 @@
         <StaffType group="pitched">
           <name>stdNormal</name>
           </StaffType>
-        <bracket type="-1" span="0"/>
+        <bracket type="0" span="3"/>
         </Staff>
       <trackName>B♭ Trumpet</trackName>
       <Instrument>
@@ -420,7 +431,6 @@
           </StaffType>
         <bracket type="0" span="4"/>
         </Staff>
-      <show>0</show>
       <trackName>Violin</trackName>
       <Instrument>
         <longName>Violin</longName>
@@ -483,7 +493,6 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Violin</trackName>
       <Instrument>
         <longName>Violin</longName>
@@ -548,7 +557,6 @@
         <defaultClef>C3</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Viola</trackName>
       <Instrument>
         <longName>Viola</longName>
@@ -613,7 +621,6 @@
         <defaultClef>F</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Violoncello</trackName>
       <Instrument>
         <longName>Violoncello</longName>
@@ -678,7 +685,6 @@
         <defaultClef>G8vb</defaultClef>
         <bracket type="0" span="4"/>
         </Staff>
-      <show>0</show>
       <trackName>Electric Guitar</trackName>
       <Instrument>
         <longName>Electric Guitar</longName>
@@ -878,7 +884,6 @@
         <defaultClef>PERC</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Drumset</trackName>
       <Instrument>
         <longName>Drumset</longName>
@@ -1101,7 +1106,6 @@
           <controller ctrl="0" value="1"/>
           <program value="0"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           </Channel>
         </Instrument>
       </Part>
@@ -1226,6 +1230,9 @@
           </Rest>
         </Measure>
       <Measure number="14">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <lid>19</lid>
           <durationType>measure</durationType>
@@ -1547,6 +1554,10 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Rest>
@@ -2549,6 +2560,10 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="2">
@@ -9860,11 +9875,6 @@
           <lid>1451</lid>
           <durationType>quarter</durationType>
           </Rest>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>1452</lid>
-          </Dynamic>
         <HairPin id="60">
           <subtype>0</subtype>
           <lid>1537</lid>
@@ -9880,7 +9890,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1454</lid>
-            <pitch>44</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             <tpc2>12</tpc2>
             </Note>
@@ -9890,7 +9900,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1456</lid>
-            <pitch>46</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             <tpc2>14</tpc2>
             </Note>
@@ -9903,7 +9913,7 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>47</pitch>
+            <pitch>59</pitch>
             <tpc>19</tpc>
             <tpc2>21</tpc2>
             </Note>
@@ -9915,7 +9925,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1460</lid>
-            <pitch>44</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             <tpc2>12</tpc2>
             </Note>
@@ -9925,7 +9935,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1462</lid>
-            <pitch>46</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             <tpc2>14</tpc2>
             </Note>
@@ -9938,7 +9948,7 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>47</pitch>
+            <pitch>59</pitch>
             <tpc>19</tpc>
             <tpc2>21</tpc2>
             </Note>
@@ -9948,7 +9958,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1466</lid>
-            <pitch>44</pitch>
+            <pitch>56</pitch>
             <tpc>10</tpc>
             <tpc2>12</tpc2>
             </Note>
@@ -9961,7 +9971,7 @@
             <Accidental>
               <subtype>flat</subtype>
               </Accidental>
-            <pitch>46</pitch>
+            <pitch>58</pitch>
             <tpc>12</tpc>
             <tpc2>14</tpc2>
             </Note>
@@ -9974,7 +9984,7 @@
             <Accidental>
               <subtype>natural</subtype>
               </Accidental>
-            <pitch>47</pitch>
+            <pitch>59</pitch>
             <tpc>19</tpc>
             <tpc2>21</tpc2>
             </Note>
@@ -9986,7 +9996,7 @@
           <durationType>eighth</durationType>
           <Note>
             <lid>1472</lid>
-            <pitch>48</pitch>
+            <pitch>60</pitch>
             <tpc>14</tpc>
             <tpc2>16</tpc2>
             </Note>
@@ -12208,7 +12218,14 @@
         <Dynamic>
           <subtype>mf</subtype>
           <velocity>80</velocity>
-          <lid>1897</lid>
+          <lid>1452</lid>
+          <pos x="-2.59759" y="-2.81044"/>
+          </Dynamic>
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          <lid>11222</lid>
+          <pos x="-2.2752" y="8"/>
           </Dynamic>
         <HairPin id="65">
           <subtype>0</subtype>
@@ -13073,6 +13090,10 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Dynamic>
@@ -14833,6 +14854,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="8">
@@ -15138,6 +15163,10 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Dynamic>
@@ -17006,6 +17035,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="9">
@@ -17305,6 +17338,10 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Dynamic>
@@ -18866,6 +18903,10 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="10">
@@ -19165,6 +19206,10 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Dynamic>
@@ -21214,6 +21259,10 @@
             <tpc>10</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="11">
@@ -21513,6 +21562,10 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       <Measure number="42">
         <Rest>
@@ -24063,6 +24116,10 @@
             <tpc>11</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         </Measure>
       </Staff>
     <Staff id="12">
@@ -24665,6 +24722,7 @@
         <Harmony>
           <root>11</root>
           <lid>4180</lid>
+          <pos x="-1.71119" y="-2.74446"/>
           </Harmony>
         <HairPin id="154">
           <subtype>0</subtype>
@@ -28833,6 +28891,7 @@
           </Chord>
         </Measure>
       <Measure number="90">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>14</root>
           <name>m</name>
@@ -29014,6 +29073,7 @@
           </Chord>
         </Measure>
       <Measure number="96">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>16</root>
           <name>dim</name>
@@ -39500,6 +39560,7 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <vspacerUp>3</vspacerUp>
         <Chord>
           <lid>6891</lid>
           <durationType>eighth</durationType>
@@ -46077,6 +46138,10 @@
             <tpc>13</tpc>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>double</subtype>
+          <span>1</span>
+          </BarLine>
         <tick>57600</tick>
         <Chord>
           <lid>8030</lid>
@@ -50443,12 +50508,12 @@
           <Segment>
             <subtype>1</subtype>
             <off2 x="0" y="0"/>
-            <pos x="19.271" y="9.68173"/>
+            <pos x="19.4157" y="9.68173"/>
             </Segment>
           <Segment>
             <subtype>3</subtype>
             <off2 x="0" y="0"/>
-            <pos x="13.3318" y="9.68173"/>
+            <pos x="13.4765" y="9.68173"/>
             </Segment>
           <beginText>
             <text>cresc.</text>
@@ -58700,6 +58765,10 @@
             <head>1</head>
             </Note>
           </Chord>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         <tick>151200</tick>
         <Chord>
           <lid>10218</lid>
@@ -67217,7 +67286,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1454</lid>
-              <pitch>44</pitch>
+              <pitch>56</pitch>
               <tpc>10</tpc>
               <tpc2>12</tpc2>
               </Note>
@@ -67227,7 +67296,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1456</lid>
-              <pitch>46</pitch>
+              <pitch>58</pitch>
               <tpc>12</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -67240,7 +67309,7 @@
               <Accidental>
                 <subtype>sharp</subtype>
                 </Accidental>
-              <pitch>47</pitch>
+              <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>21</tpc2>
               </Note>
@@ -67252,7 +67321,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1460</lid>
-              <pitch>44</pitch>
+              <pitch>56</pitch>
               <tpc>10</tpc>
               <tpc2>12</tpc2>
               </Note>
@@ -67262,7 +67331,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1462</lid>
-              <pitch>46</pitch>
+              <pitch>58</pitch>
               <tpc>12</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -67275,7 +67344,7 @@
               <Accidental>
                 <subtype>sharp</subtype>
                 </Accidental>
-              <pitch>47</pitch>
+              <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>21</tpc2>
               </Note>
@@ -67285,7 +67354,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1466</lid>
-              <pitch>44</pitch>
+              <pitch>56</pitch>
               <tpc>10</tpc>
               <tpc2>12</tpc2>
               </Note>
@@ -67298,7 +67367,7 @@
               <Accidental>
                 <subtype>natural</subtype>
                 </Accidental>
-              <pitch>46</pitch>
+              <pitch>58</pitch>
               <tpc>12</tpc>
               <tpc2>14</tpc2>
               </Note>
@@ -67311,7 +67380,7 @@
               <Accidental>
                 <subtype>sharp</subtype>
                 </Accidental>
-              <pitch>47</pitch>
+              <pitch>59</pitch>
               <tpc>19</tpc>
               <tpc2>21</tpc2>
               </Note>
@@ -67323,7 +67392,7 @@
             <durationType>eighth</durationType>
             <Note>
               <lid>1472</lid>
-              <pitch>48</pitch>
+              <pitch>60</pitch>
               <tpc>14</tpc>
               <tpc2>16</tpc2>
               </Note>
@@ -69709,7 +69778,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <lid>1897</lid>
+            <lid>11222</lid>
             </Dynamic>
           <HairPin id="305">
             <subtype>0</subtype>
