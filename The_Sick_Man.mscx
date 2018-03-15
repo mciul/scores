@@ -9159,10 +9159,8 @@
         </Measure>
       <Measure number="20">
         <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
+          <durationType>measure</durationType>
+          <duration z="4" n="4"/>
           </Rest>
         </Measure>
       <Measure number="21">
