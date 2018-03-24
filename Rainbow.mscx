@@ -1199,12 +1199,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        </Measure>
-      <Measure number="77">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -2575,12 +2569,6 @@
             <tpc>12</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="77">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -3368,12 +3356,6 @@
           </Rest>
         </Measure>
       <Measure number="76">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
-          </Rest>
-        </Measure>
-      <Measure number="77">
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
@@ -5054,12 +5036,6 @@
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
           </Rest>
-        </Measure>
-      <Measure number="77">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>2</span>
@@ -6428,12 +6404,6 @@
           </Rest>
         </Measure>
       <Measure number="76">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="6" n="8"/>
-          </Rest>
-        </Measure>
-      <Measure number="77">
         <Rest>
           <durationType>measure</durationType>
           <duration z="6" n="8"/>
