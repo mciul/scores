@@ -3,7 +3,6 @@
   <programVersion>2.1.0</programVersion>
   <programRevision>871c8ce</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -49,6 +48,54 @@
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Cursed</metaTag>
     <PageList>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
       <Page>
         <System>
           </System>
@@ -7273,12 +7320,6 @@
             <tpc2>17</tpc2>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>f</subtype>
-          <velocity>96</velocity>
-          <lid>7155</lid>
-          <pos x="0.49007" y="-3.64199"/>
-          </Dynamic>
         <Chord>
           <lid>7156</lid>
           <durationType>eighth</durationType>
@@ -7403,12 +7444,6 @@
             <tpc2>17</tpc2>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>ff</subtype>
-          <velocity>112</velocity>
-          <lid>7180</lid>
-          <pos x="0.154089" y="-4.02887"/>
-          </Dynamic>
         <Chord>
           <lid>7181</lid>
           <durationType>eighth</durationType>
@@ -9207,12 +9242,6 @@
           </Chord>
         </Measure>
       <Measure number="37">
-        <Dynamic>
-          <subtype>mp</subtype>
-          <velocity>64</velocity>
-          <lid>7337</lid>
-          <pos x="-2.23192" y="-3.11051"/>
-          </Dynamic>
         <Chord>
           <lid>7338</lid>
           <durationType>eighth</durationType>
@@ -10321,12 +10350,6 @@
             <tpc2>18</tpc2>
             </Note>
           </Chord>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>1456</lid>
-          <pos x="3.76163" y="-2.62448"/>
-          </Dynamic>
         <Chord>
           <lid>1457</lid>
           <durationType>eighth</durationType>
@@ -12416,14 +12439,8 @@
         <Dynamic>
           <subtype>mf</subtype>
           <velocity>80</velocity>
-          <lid>1408</lid>
-          <pos x="-2.59759" y="-2.81044"/>
-          </Dynamic>
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>7083</lid>
-          <pos x="-2.2752" y="8"/>
+          <lid>11666</lid>
+          <pos x="-1.36281" y="-2.63821"/>
           </Dynamic>
         <HairPin id="65">
           <subtype>0</subtype>
@@ -13095,6 +13112,12 @@
           </Rest>
         </Measure>
       <Measure number="36">
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          <lid>7306</lid>
+          <pos x="28.9817" y="8.34909"/>
+          </Dynamic>
         <Rest>
           <lid>1842</lid>
           <durationType>measure</durationType>
@@ -13102,11 +13125,6 @@
           </Rest>
         </Measure>
       <Measure number="37">
-        <Dynamic>
-          <subtype>mf</subtype>
-          <velocity>80</velocity>
-          <lid>7306</lid>
-          </Dynamic>
         <HairPin id="67">
           <subtype>0</subtype>
           <lid>2230</lid>
@@ -14739,6 +14757,12 @@
             <tpc>16</tpc>
             </Note>
           </Chord>
+        <Dynamic>
+          <subtype>mf</subtype>
+          <velocity>80</velocity>
+          <lid>11667</lid>
+          <pos x="5.29237" y="-2.87104"/>
+          </Dynamic>
         <Chord>
           <lid>2168</lid>
           <durationType>quarter</durationType>
@@ -48556,9 +48580,14 @@
         <HairPin id="245">
           <subtype>0</subtype>
           <Segment>
-            <subtype>0</subtype>
+            <subtype>1</subtype>
             <off2 x="0" y="0"/>
-            <pos x="1933.64" y="9.68173"/>
+            <pos x="19.4157" y="9.68173"/>
+            </Segment>
+          <Segment>
+            <subtype>3</subtype>
+            <off2 x="0" y="0"/>
+            <pos x="13.4765" y="9.68173"/>
             </Segment>
           <beginText>
             <text>cresc.</text>
@@ -73702,6 +73731,12 @@
             </Rest>
           </Measure>
         <Measure number="35">
+          <Dynamic>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
+            <lid>7321</lid>
+            <pos x="19.3004" y="8.44855"/>
+            </Dynamic>
           <Rest>
             <lid>7144</lid>
             <durationType>measure</durationType>
@@ -73709,11 +73744,6 @@
             </Rest>
           </Measure>
         <Measure number="36">
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>7321</lid>
-            </Dynamic>
           <HairPin id="335">
             <subtype>0</subtype>
             <lid>7322</lid>
@@ -73774,11 +73804,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <lid>7155</lid>
-            </Dynamic>
           <Chord>
             <lid>7156</lid>
             <durationType>eighth</durationType>
@@ -73903,11 +73928,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>ff</subtype>
-            <velocity>112</velocity>
-            <lid>7180</lid>
-            </Dynamic>
           <Chord>
             <lid>7181</lid>
             <durationType>eighth</durationType>
@@ -74392,6 +74412,9 @@
             </Rest>
           </Measure>
         <Measure number="95">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <lid>7249</lid>
             <durationType>measure</durationType>
@@ -74434,6 +74457,9 @@
             </Rest>
           </Measure>
         <Measure number="101">
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <Rest>
             <lid>7255</lid>
             <durationType>measure</durationType>
@@ -74555,11 +74581,6 @@
               <tpc2>13</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>fff</subtype>
-            <velocity>126</velocity>
-            <lid>7276</lid>
-            </Dynamic>
           <endSpanner id="338"/>
           <Chord>
             <lid>7278</lid>
@@ -75671,6 +75692,7 @@
             </Chord>
           </Measure>
         <Measure number="36">
+          <vspacerUp>3</vspacerUp>
           <Chord>
             <lid>1268</lid>
             <durationType>eighth</durationType>
@@ -75733,12 +75755,6 @@
             </Chord>
           </Measure>
         <Measure number="37">
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>7337</lid>
-            <pos x="-0.96672" y="-1.34727"/>
-            </Dynamic>
           <Chord>
             <lid>7338</lid>
             <durationType>eighth</durationType>
@@ -76871,11 +76887,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <lid>1456</lid>
-            </Dynamic>
           <Chord>
             <lid>1457</lid>
             <durationType>eighth</durationType>
@@ -77007,7 +77018,8 @@
           <Dynamic>
             <subtype>fff</subtype>
             <velocity>126</velocity>
-            <lid>1480</lid>
+            <lid>7276</lid>
+            <pos x="1.60473" y="-3.15751"/>
             </Dynamic>
           <endSpanner id="343"/>
           <Chord>
@@ -79008,12 +79020,14 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <lid>1408</lid>
+            <lid>11666</lid>
+            <pos x="-1.63557" y="-2.54853"/>
             </Dynamic>
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <lid>7083</lid>
+            <lid>11667</lid>
+            <pos x="-2.0802" y="8"/>
             </Dynamic>
           <HairPin id="347">
             <subtype>0</subtype>
@@ -79379,6 +79393,13 @@
             <subtype>fff</subtype>
             <velocity>126</velocity>
             <lid>1790</lid>
+            <pos x="1.69838" y="7.72615"/>
+            </Dynamic>
+          <Dynamic>
+            <subtype>fff</subtype>
+            <velocity>126</velocity>
+            <lid>1480</lid>
+            <pos x="1.74166" y="-2.97742"/>
             </Dynamic>
           <endSpanner id="348"/>
           <Chord>
@@ -86194,12 +86215,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <lid>7155</lid>
-            <pos x="0.464542" y="-4.01184"/>
-            </Dynamic>
           <Chord>
             <lid>7156</lid>
             <durationType>eighth</durationType>
@@ -86325,12 +86340,6 @@
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>ff</subtype>
-            <velocity>112</velocity>
-            <lid>7180</lid>
-            <pos x="0.0770633" y="-4.01184"/>
-            </Dynamic>
           <Chord>
             <lid>7181</lid>
             <durationType>eighth</durationType>
@@ -88109,12 +88118,6 @@
             </Chord>
           </Measure>
         <Measure number="37">
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>7337</lid>
-            <pos x="-1.76887" y="-2.46518"/>
-            </Dynamic>
           <Chord>
             <lid>7338</lid>
             <durationType>eighth</durationType>
@@ -88961,6 +88964,11 @@
             <lid>1407</lid>
             <durationType>quarter</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <lid>11666</lid>
+            </Dynamic>
           <HairPin id="407">
             <subtype>0</subtype>
             <lid>1493</lid>
@@ -89223,11 +89231,6 @@
               <tpc2>18</tpc2>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <lid>1456</lid>
-            </Dynamic>
           <Chord>
             <lid>1457</lid>
             <durationType>eighth</durationType>
@@ -91316,13 +91319,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <lid>1408</lid>
-            </Dynamic>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <lid>7083</lid>
-            <pos x="-3.02277" y="8.38748"/>
+            <lid>11667</lid>
             </Dynamic>
           <HairPin id="412">
             <subtype>0</subtype>
