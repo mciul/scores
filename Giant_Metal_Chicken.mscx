@@ -8893,9 +8893,11 @@
           </Chord>
         </Measure>
       <Measure number="34">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>21</root>
           <name>m</name>
+          <pos x="0" y="-3.01238"/>
           </Harmony>
         <Chord>
           <durationType>half</durationType>
