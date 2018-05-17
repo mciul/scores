@@ -55,8 +55,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -133,8 +131,6 @@
           </System>
         <System>
           </System>
-        <System>
-          </System>
         </Page>
       <Page>
         <System>
@@ -145,10 +141,6 @@
           </System>
         <System>
           </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -161,6 +153,16 @@
       <Page>
         <System>
           </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
         <System>
           </System>
         <System>
@@ -392,7 +394,7 @@
           </Articulation>
         <Channel>
           <program value="27"/>
-          <controller ctrl="7" value="70"/>
+          <controller ctrl="7" value="62"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -12150,6 +12152,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>2333</lid>
+          <pos x="0.489591" y="7.3582"/>
           </Dynamic>
         <Chord>
           <lid>2336</lid>
@@ -13361,6 +13364,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>2551</lid>
+          <pos x="0.489591" y="7.0373"/>
           </Dynamic>
         <Chord>
           <lid>2554</lid>
@@ -16470,6 +16474,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>3178</lid>
+          <pos x="0.329141" y="6.55594"/>
           </Dynamic>
         <Chord>
           <lid>3179</lid>
@@ -17670,6 +17675,7 @@
           <subtype>mf</subtype>
           <velocity>80</velocity>
           <lid>3423</lid>
+          <pos x="0.329141" y="7.19775"/>
           </Dynamic>
         <Chord>
           <lid>3425</lid>
@@ -18123,6 +18129,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>3524</lid>
+          <pos x="0.329141" y="7.0373"/>
           </Dynamic>
         <Chord>
           <lid>3527</lid>
@@ -18328,6 +18335,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>3568</lid>
+          <pos x="0.329141" y="6.87684"/>
           </Dynamic>
         <Chord>
           <lid>3569</lid>
@@ -19297,6 +19305,7 @@
           </BarLine>
         </Measure>
       <Measure number="175">
+        <vspacerUp>3</vspacerUp>
         <Dynamic>
           <subtype>mp</subtype>
           <velocity>64</velocity>
@@ -21165,6 +21174,7 @@
           <subtype>mf</subtype>
           <velocity>80</velocity>
           <lid>4149</lid>
+          <pos x="0.184814" y="6.67183"/>
           </Dynamic>
         <Chord>
           <lid>4151</lid>
@@ -21337,6 +21347,7 @@
       </Staff>
     <Staff id="4">
       <Measure number="1">
+        <vspacerUp>3</vspacerUp>
         <KeySig>
           <lid>4186</lid>
           <accidental>-1</accidental>
@@ -21356,6 +21367,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>4189</lid>
+          <pos x="-0.304423" y="9.12316"/>
           </Dynamic>
         <Chord>
           <lid>4190</lid>
@@ -22168,6 +22180,7 @@
           </BarLine>
         </Measure>
       <Measure number="19">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4352</lid>
@@ -22909,6 +22922,7 @@
           </BarLine>
         </Measure>
       <Measure number="27">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4504</lid>
@@ -23096,6 +23110,7 @@
           </Chord>
         </Measure>
       <Measure number="31">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4532</lid>
@@ -23278,6 +23293,7 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4553</lid>
@@ -23460,6 +23476,7 @@
           </Chord>
         </Measure>
       <Measure number="39">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4573</lid>
@@ -23645,6 +23662,7 @@
           </Chord>
         </Measure>
       <Measure number="43">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4610</lid>
@@ -23844,6 +23862,7 @@
           </Chord>
         </Measure>
       <Measure number="47">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4628</lid>
@@ -24043,6 +24062,7 @@
           </Chord>
         </Measure>
       <Measure number="51">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4646</lid>
@@ -24388,6 +24408,7 @@
           </BarLine>
         </Measure>
       <Measure number="58">
+        <vspacerUp>5.56721</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>4668</lid>
@@ -24397,6 +24418,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>4669</lid>
+          <pos x="-1.26713" y="8.80225"/>
           </Dynamic>
         <Chord>
           <lid>4670</lid>
@@ -25264,6 +25286,7 @@
           </Chord>
         </Measure>
       <Measure number="70">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>14514</lid>
@@ -25393,6 +25416,7 @@
           </Chord>
         </Measure>
       <Measure number="74">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>14520</lid>
@@ -25691,6 +25715,7 @@
           </Chord>
         </Measure>
       <Measure number="78">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>14525</lid>
@@ -25974,6 +25999,7 @@
           </Chord>
         </Measure>
       <Measure number="86">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>14531</lid>
@@ -26732,6 +26758,7 @@
           </BarLine>
         </Measure>
       <Measure number="96">
+        <vspacerUp>4.76496</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>5116</lid>
@@ -26741,6 +26768,7 @@
           <subtype>mf</subtype>
           <velocity>80</velocity>
           <lid>5117</lid>
+          <pos x="-1.58803" y="8.6418"/>
           </Dynamic>
         <Chord>
           <lid>5118</lid>
@@ -27478,15 +27506,17 @@
           </BarLine>
         </Measure>
       <Measure number="104">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>5269</lid>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.301627" y="-2.53804"/>
           </Harmony>
         <Dynamic>
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>5270</lid>
+          <pos x="-1.10668" y="8.9627"/>
           </Dynamic>
         <Chord>
           <lid>5271</lid>
@@ -27588,7 +27618,7 @@
         <Harmony>
           <root>12</root>
           <lid>5291</lid>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="0.141176" y="-3.27453"/>
           </Harmony>
         <Chord>
           <lid>5292</lid>
@@ -27810,10 +27840,11 @@
           </Chord>
         </Measure>
       <Measure number="108">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>5335</lid>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.94343" y="-2.53804"/>
           </Harmony>
         <Chord>
           <lid>5336</lid>
@@ -27915,7 +27946,7 @@
         <Harmony>
           <root>12</root>
           <lid>5356</lid>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="0.141176" y="-3.27453"/>
           </Harmony>
         <Chord>
           <lid>5357</lid>
@@ -28689,6 +28720,7 @@
           </Rest>
         </Measure>
       <Measure number="143">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>16</root>
           <name>m</name>
@@ -28955,6 +28987,7 @@
           <subtype>mp</subtype>
           <velocity>64</velocity>
           <lid>5556</lid>
+          <pos x="-1.26713" y="8.9627"/>
           </Dynamic>
         <Chord>
           <lid>5557</lid>
@@ -29066,11 +29099,6 @@
           <lid>14647</lid>
           <pos x="0.141176" y="-5.74706"/>
           </Harmony>
-        <Dynamic>
-          <subtype>mp</subtype>
-          <velocity>64</velocity>
-          <lid>14648</lid>
-          </Dynamic>
         <Chord>
           <lid>14649</lid>
           <dots>1</dots>
@@ -29181,11 +29209,6 @@
           <lid>14670</lid>
           <pos x="0.141176" y="-5.74706"/>
           </Harmony>
-        <Dynamic>
-          <subtype>mp</subtype>
-          <velocity>64</velocity>
-          <lid>14671</lid>
-          </Dynamic>
         <Chord>
           <lid>14672</lid>
           <dots>1</dots>
@@ -29543,10 +29566,11 @@
           </BarLine>
         </Measure>
       <Measure number="175">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>5602</lid>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.141176" y="-2.53804"/>
           </Harmony>
         <Chord>
           <lid>5603</lid>
@@ -29648,7 +29672,7 @@
         <Harmony>
           <root>12</root>
           <lid>5623</lid>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="-0.179726" y="-2.95363"/>
           </Harmony>
         <Chord>
           <lid>5624</lid>
@@ -29747,6 +29771,11 @@
           </Rest>
         </Measure>
       <Measure number="177">
+        <Harmony>
+          <root>16</root>
+          <name>m</name>
+          <lid>14748</lid>
+          </Harmony>
         <Chord>
           <lid>5644</lid>
           <durationType>eighth</durationType>
@@ -29839,6 +29868,10 @@
           </Rest>
         </Measure>
       <Measure number="178">
+        <Harmony>
+          <root>15</root>
+          <lid>14749</lid>
+          </Harmony>
         <Chord>
           <lid>5663</lid>
           <dots>1</dots>
@@ -29861,10 +29894,11 @@
           </Chord>
         </Measure>
       <Measure number="179">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>5667</lid>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.462078" y="-2.21714"/>
           </Harmony>
         <Chord>
           <lid>5668</lid>
@@ -29966,7 +30000,7 @@
         <Harmony>
           <root>12</root>
           <lid>5688</lid>
-          <pos x="0.141176" y="-5.68129"/>
+          <pos x="0.141176" y="-3.11408"/>
           </Harmony>
         <Chord>
           <lid>5689</lid>
@@ -30065,6 +30099,11 @@
           </Rest>
         </Measure>
       <Measure number="181">
+        <Harmony>
+          <root>16</root>
+          <name>m</name>
+          <lid>14750</lid>
+          </Harmony>
         <Chord>
           <lid>5709</lid>
           <durationType>eighth</durationType>
@@ -30157,6 +30196,10 @@
           </Rest>
         </Measure>
       <Measure number="182">
+        <Harmony>
+          <root>15</root>
+          <lid>14751</lid>
+          </Harmony>
         <Chord>
           <lid>5728</lid>
           <dots>1</dots>
@@ -30179,6 +30222,10 @@
           </Chord>
         </Measure>
       <Measure number="183">
+        <Harmony>
+          <root>14</root>
+          <lid>14752</lid>
+          </Harmony>
         <Chord>
           <lid>5732</lid>
           <dots>1</dots>
@@ -30240,6 +30287,7 @@
           </BarLine>
         </Measure>
       <Measure number="185">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>12</root>
           <lid>5744</lid>
@@ -30364,7 +30412,7 @@
         <Harmony>
           <root>13</root>
           <lid>5769</lid>
-          <pos x="-0.0727584" y="-4.14255"/>
+          <pos x="-0.0727584" y="-2.85894"/>
           </Harmony>
         <Chord>
           <lid>5770</lid>
@@ -30485,7 +30533,7 @@
         <Harmony>
           <root>12</root>
           <lid>5794</lid>
-          <pos x="-0.132673" y="-3.88136"/>
+          <pos x="-0.132673" y="-3.07911"/>
           </Harmony>
         <Chord>
           <lid>5795</lid>
@@ -30606,7 +30654,7 @@
         <Harmony>
           <root>13</root>
           <lid>5819</lid>
-          <pos x="-0.0727584" y="-4.14255"/>
+          <pos x="-0.0727584" y="-3.01939"/>
           </Harmony>
         <Chord>
           <lid>5820</lid>
@@ -30724,6 +30772,7 @@
           </Chord>
         </Measure>
       <Measure number="189">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>12</root>
           <lid>5844</lid>
@@ -30848,7 +30897,7 @@
         <Harmony>
           <root>15</root>
           <lid>5869</lid>
-          <pos x="0" y="-4.25386"/>
+          <pos x="0.160451" y="-2.4889"/>
           </Harmony>
         <Chord>
           <lid>5870</lid>
@@ -30909,7 +30958,7 @@
         <Harmony>
           <root>12</root>
           <lid>5881</lid>
-          <pos x="-0.132673" y="-3.88136"/>
+          <pos x="-0.132673" y="-3.23956"/>
           </Harmony>
         <Chord>
           <lid>5882</lid>
@@ -31030,7 +31079,7 @@
         <Harmony>
           <root>13</root>
           <lid>5906</lid>
-          <pos x="-0.0727584" y="-4.14255"/>
+          <pos x="0.0876924" y="-2.53804"/>
           </Harmony>
         <Chord>
           <lid>5907</lid>
@@ -31151,7 +31200,7 @@
         <Harmony>
           <root>12</root>
           <lid>5931</lid>
-          <pos x="-0.132673" y="-3.88136"/>
+          <pos x="-0.132673" y="-2.91866"/>
           </Harmony>
         <Chord>
           <lid>5932</lid>
@@ -31272,7 +31321,7 @@
         <Harmony>
           <root>13</root>
           <lid>5956</lid>
-          <pos x="-0.0727584" y="-4.14255"/>
+          <pos x="-0.0727584" y="-2.85894"/>
           </Harmony>
         <Chord>
           <lid>5957</lid>
@@ -31390,6 +31439,7 @@
           </Chord>
         </Measure>
       <Measure number="196">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>12</root>
           <lid>5981</lid>
@@ -31514,7 +31564,7 @@
         <Harmony>
           <root>13</root>
           <lid>6006</lid>
-          <pos x="-0.0727584" y="-4.14255"/>
+          <pos x="0.0876924" y="-2.85894"/>
           </Harmony>
         <Chord>
           <lid>6007</lid>
@@ -31939,7 +31989,7 @@
           <root>16</root>
           <name>m</name>
           <lid>6093</lid>
-          <pos x="0" y="-5.60588"/>
+          <pos x="0" y="-2.23641"/>
           </Harmony>
         <Chord>
           <lid>6094</lid>
@@ -32000,7 +32050,7 @@
         <Harmony>
           <root>14</root>
           <lid>6106</lid>
-          <pos x="0.141176" y="-5.32353"/>
+          <pos x="0.141176" y="-2.75632"/>
           </Harmony>
         <Chord>
           <lid>6107</lid>
@@ -32061,7 +32111,7 @@
         <Harmony>
           <root>12</root>
           <lid>6119</lid>
-          <pos x="-0.141176" y="-5.60588"/>
+          <pos x="0.179726" y="-2.39686"/>
           </Harmony>
         <Chord>
           <lid>6120</lid>
@@ -32138,6 +32188,7 @@
           </Rest>
         </Measure>
       <Measure number="207">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>6135</lid>
@@ -32622,10 +32673,11 @@
           </Chord>
         </Measure>
       <Measure number="211">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>6235</lid>
-          <pos x="0.141176" y="-4.03559"/>
+          <pos x="0.141176" y="-2.91243"/>
           </Harmony>
         <Chord>
           <lid>6236</lid>
@@ -32746,7 +32798,7 @@
         <Harmony>
           <root>12</root>
           <lid>6260</lid>
-          <pos x="0.141176" y="-4.45478"/>
+          <pos x="-0.179726" y="-3.65253"/>
           </Harmony>
         <Chord>
           <lid>6261</lid>
@@ -32864,6 +32916,10 @@
           </Chord>
         </Measure>
       <Measure number="213">
+        <Harmony>
+          <root>13</root>
+          <lid>14753</lid>
+          </Harmony>
         <Chord>
           <lid>6285</lid>
           <dots>1</dots>
@@ -32927,7 +32983,7 @@
       </Staff>
     <Staff id="5">
       <Measure number="1">
-        <vspacerUp>3</vspacerUp>
+        <vspacerUp>8.77623</vspacerUp>
         <KeySig>
           <lid>6297</lid>
           <accidental>-1</accidental>
@@ -33662,7 +33718,7 @@
           </Chord>
         </Measure>
       <Measure number="5">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>5.32358</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>6447</lid>
@@ -35825,7 +35881,7 @@
           </BarLine>
         </Measure>
       <Measure number="19">
-        <vspacerUp>3</vspacerUp>
+        <vspacerUp>5.40676</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>6887</lid>
@@ -37097,7 +37153,7 @@
           </BarLine>
         </Measure>
       <Measure number="27">
-        <vspacerUp>3.23772</vspacerUp>
+        <vspacerUp>5.00268</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>7146</lid>
@@ -39626,7 +39682,7 @@
           </BarLine>
         </Measure>
       <Measure number="58">
-        <vspacerUp>3.60567</vspacerUp>
+        <vspacerUp>5.04973</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>7662</lid>
@@ -40898,7 +40954,7 @@
           </BarLine>
         </Measure>
       <Measure number="66">
-        <vspacerUp>3.87952</vspacerUp>
+        <vspacerUp>5.00268</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>7921</lid>
@@ -41603,7 +41659,7 @@
         <Harmony>
           <root>13</root>
           <lid>8064</lid>
-          <pos x="0.141176" y="-5.74706"/>
+          <pos x="0.141176" y="-4.46345"/>
           </Harmony>
         <Chord>
           <lid>8065</lid>
@@ -46385,7 +46441,7 @@
           </BarLine>
         </Measure>
       <Measure number="96">
-        <vspacerUp>4.14772</vspacerUp>
+        <vspacerUp>5.11042</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>9040</lid>
@@ -47657,7 +47713,7 @@
           </BarLine>
         </Measure>
       <Measure number="104">
-        <vspacerUp>3.90718</vspacerUp>
+        <vspacerUp>6.47439</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>9299</lid>
@@ -54769,7 +54825,7 @@
           </Chord>
         </Measure>
       <Measure number="148">
-        <vspacerUp>2</vspacerUp>
+        <vspacerUp>4.24631</vspacerUp>
         <Harmony>
           <root>13</root>
           <lid>10747</lid>
@@ -63136,6 +63192,10 @@
           </Chord>
         </Measure>
       <Measure number="213">
+        <Harmony>
+          <root>13</root>
+          <lid>14754</lid>
+          </Harmony>
         <Chord>
           <lid>12446</lid>
           <dots>1</dots>
@@ -112167,11 +112227,6 @@
             <lid>14647</lid>
             <pos x="0.141176" y="-5.74706"/>
             </Harmony>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>14648</lid>
-            </Dynamic>
           <Chord>
             <lid>14649</lid>
             <dots>1</dots>
@@ -112282,11 +112337,6 @@
             <lid>14670</lid>
             <pos x="0.141176" y="-5.74706"/>
             </Harmony>
-          <Dynamic>
-            <subtype>mp</subtype>
-            <velocity>64</velocity>
-            <lid>14671</lid>
-            </Dynamic>
           <Chord>
             <lid>14672</lid>
             <dots>1</dots>
@@ -112860,6 +112910,11 @@
             </Rest>
           </Measure>
         <Measure number="177">
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            <lid>14748</lid>
+            </Harmony>
           <Chord>
             <lid>5644</lid>
             <durationType>eighth</durationType>
@@ -112952,6 +113007,10 @@
             </Rest>
           </Measure>
         <Measure number="178">
+          <Harmony>
+            <root>15</root>
+            <lid>14749</lid>
+            </Harmony>
           <Chord>
             <lid>5663</lid>
             <dots>1</dots>
@@ -113177,6 +113236,11 @@
             </Rest>
           </Measure>
         <Measure number="181">
+          <Harmony>
+            <root>16</root>
+            <name>m</name>
+            <lid>14750</lid>
+            </Harmony>
           <Chord>
             <lid>5709</lid>
             <durationType>eighth</durationType>
@@ -113269,6 +113333,10 @@
             </Rest>
           </Measure>
         <Measure number="182">
+          <Harmony>
+            <root>15</root>
+            <lid>14751</lid>
+            </Harmony>
           <Chord>
             <lid>5728</lid>
             <dots>1</dots>
@@ -113291,6 +113359,10 @@
             </Chord>
           </Measure>
         <Measure number="183">
+          <Harmony>
+            <root>14</root>
+            <lid>14752</lid>
+            </Harmony>
           <Chord>
             <lid>5732</lid>
             <dots>1</dots>
@@ -115958,6 +116030,10 @@
             </Chord>
           </Measure>
         <Measure number="213">
+          <Harmony>
+            <root>13</root>
+            <lid>14753</lid>
+            </Harmony>
           <Chord>
             <lid>6285</lid>
             <dots>1</dots>
@@ -146195,6 +146271,10 @@
             </Chord>
           </Measure>
         <Measure number="213">
+          <Harmony>
+            <root>13</root>
+            <lid>14754</lid>
+            </Harmony>
           <Chord>
             <lid>12446</lid>
             <dots>1</dots>
