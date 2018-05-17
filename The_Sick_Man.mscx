@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.1.0</programVersion>
-  <programRevision>871c8ce</programRevision>
+  <programVersion>2.2.1</programVersion>
+  <programRevision>51b8386</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -42,7 +42,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source"></metaTag>
+    <metaTag name="source">https://musescore.com/score/5099341</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">The Sick Man</metaTag>
@@ -89,7 +89,6 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Soprano</trackName>
       <Instrument>
         <longName>Soprano</longName>
@@ -142,7 +141,6 @@
           </StaffType>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Alto</trackName>
       <Instrument>
         <longName>Alto</longName>
@@ -249,7 +247,6 @@
         <defaultClef>F</defaultClef>
         <bracket type="-1" span="0"/>
         </Staff>
-      <show>0</show>
       <trackName>Bass</trackName>
       <Instrument>
         <longName>Bass</longName>
@@ -8323,8 +8320,6 @@
           </Chord>
         <Slur id="117">
           <track>20</track>
-          <SlurSegment no="0">
-            </SlurSegment>
           </Slur>
         <Chord>
           <durationType>eighth</durationType>
