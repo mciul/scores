@@ -208,7 +208,7 @@
           </Articulation>
         <Channel>
           <program value="56"/>
-          <controller ctrl="7" value="76"/>
+          <controller ctrl="7" value="87"/>
           <synti>Fluid</synti>
           </Channel>
         <Channel name="mute">
@@ -325,7 +325,7 @@
           </Articulation>
         <Channel>
           <program value="57"/>
-          <controller ctrl="7" value="82"/>
+          <controller ctrl="7" value="97"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -449,6 +449,7 @@
           </Articulation>
         <Channel>
           <program value="34"/>
+          <controller ctrl="7" value="67"/>
           <synti>Fluid</synti>
           </Channel>
         </Instrument>
@@ -7732,8 +7733,35 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            <tpc2>14</tpc2>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="31">
         <Chord>
@@ -8781,8 +8809,35 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
+            <tpc2>15</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
+            <tpc2>14</tpc2>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="65">
         <Chord>
@@ -10384,8 +10439,25 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="31">
         <Chord>
@@ -11342,8 +11414,25 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>half</durationType>
+          <durationType>quarter</durationType>
           </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>43</pitch>
+            <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>46</pitch>
+            <tpc>12</tpc>
+            </Note>
+          </Chord>
         </Measure>
       <Measure number="65">
         <Chord>
@@ -14206,9 +14295,6 @@
       </Staff>
     <Staff id="8">
       <Measure number="1">
-        <KeySig>
-          <accidental>0</accidental>
-          </KeySig>
         <TimeSig>
           <sigN>4</sigN>
           <sigD>4</sigD>
