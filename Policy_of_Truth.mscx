@@ -14384,21 +14384,21 @@
           <Note>
             <Tie id="249">
               </Tie>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <Tie id="250">
+              </Tie>
             <endSpanner id="248"/>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <Tie id="250">
+            <Tie id="251">
               </Tie>
             <pitch>80</pitch>
             <tpc>22</tpc>
-            </Note>
-          <Note>
-            <Tie id="251">
-              </Tie>
-            <pitch>83</pitch>
-            <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -14407,18 +14407,18 @@
           <durationType>whole</durationType>
           <Note>
             <endSpanner id="249"/>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <endSpanner id="250"/>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="250"/>
+            <endSpanner id="251"/>
             <pitch>80</pitch>
             <tpc>22</tpc>
-            </Note>
-          <Note>
-            <endSpanner id="251"/>
-            <pitch>83</pitch>
-            <tpc>19</tpc>
             </Note>
           </Chord>
         <BarLine>
