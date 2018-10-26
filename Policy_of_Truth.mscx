@@ -10,7 +10,6 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <concertPitch>1</concertPitch>
       <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1683.38</page-height>
@@ -5306,7 +5305,7 @@
     <Staff id="3">
       <Measure number="1">
         <KeySig>
-          <accidental>2</accidental>
+          <accidental>4</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
@@ -5480,7 +5479,7 @@
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -5787,7 +5786,7 @@
           <durationType>16th</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -6251,7 +6250,7 @@
           <durationType>half</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -6310,7 +6309,7 @@
           <durationType>half</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -6373,7 +6372,7 @@
           <durationType>whole</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
@@ -7357,7 +7356,7 @@
     <Staff id="4">
       <Measure number="1">
         <KeySig>
-          <accidental>2</accidental>
+          <accidental>4</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
@@ -8320,7 +8319,7 @@
           <durationType>whole</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -8414,7 +8413,7 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
@@ -8425,7 +8424,7 @@
           <durationType>eighth</durationType>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
