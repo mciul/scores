@@ -4715,6 +4715,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>5</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -4734,6 +4738,11 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>5</name>
+            <base>19</base>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -4741,8 +4750,8 @@
               <tpc>19</tpc>
               </Note>
             <Note>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             <Note>
               <pitch>71</pitch>
@@ -4753,6 +4762,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>5</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -4772,6 +4785,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>5</name>
+            </Harmony>
           <Chord>
             <durationType>whole</durationType>
             <Note>
@@ -5510,6 +5527,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             </BarLine>
           </voice>
         </Measure>
