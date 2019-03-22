@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.2.1</programVersion>
-  <programRevision>51b8386</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -2029,8 +2029,8 @@
             <text>But</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2040,8 +2040,8 @@
             <text>ne</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2061,8 +2061,11 @@
             <text>got</text>
             </Lyrics>
           <Note>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
