@@ -5690,18 +5690,36 @@
         <Rest>
           <durationType>half</durationType>
           </Rest>
-        <Rest>
-          <visible>0</visible>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
+          <Lyrics>
+            <text>Who</text>
+            </Lyrics>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <visible>0</visible>
+          <Lyrics>
+            <text>says</text>
+            </Lyrics>
+          <Note>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          </Chord>
+        <Chord>
           <durationType>eighth</durationType>
-          </Rest>
+          <Lyrics>
+            <text>I</text>
+            </Lyrics>
+          <Note>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
+            </Note>
+          </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Lyrics>
@@ -5712,46 +5730,6 @@
               </Tie>
             <pitch>71</pitch>
             <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <tick>139200</tick>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <track>5</track>
-            <text>Who</text>
-            </Lyrics>
-          <Note>
-            <track>5</track>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <track>5</track>
-            <text>says</text>
-            </Lyrics>
-          <Note>
-            <track>5</track>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <track>5</track>
-          <durationType>eighth</durationType>
-          <Lyrics>
-            <track>5</track>
-            <text>I</text>
-            </Lyrics>
-          <Note>
-            <track>5</track>
-            <pitch>72</pitch>
-            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -8698,11 +8676,8 @@
           </Rest>
         <Chord>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -8720,6 +8695,9 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>79</pitch>
             <tpc>15</tpc>
