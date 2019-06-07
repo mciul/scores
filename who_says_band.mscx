@@ -100,6 +100,7 @@
         <Channel>
           <program value="54"/>
           <synti>Fluid</synti>
+          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -151,6 +152,7 @@
         <Channel>
           <program value="53"/>
           <synti>Fluid</synti>
+          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -4795,12 +4797,12 @@
             <text>And</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           <Note>
             <pitch>74</pitch>
@@ -4813,12 +4815,12 @@
             <text>if</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           <Note>
             <pitch>74</pitch>
@@ -4831,16 +4833,16 @@
             <text>you</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            </Note>
-          <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
             </Note>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
+            </Note>
+          <Note>
+            <pitch>76</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4852,8 +4854,8 @@
             <text>wan</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           <Note>
             <pitch>69</pitch>
@@ -4871,16 +4873,16 @@
             <text>na</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4889,16 +4891,16 @@
             <text>you</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>67</pitch>
+            <tpc>15</tpc>
             </Note>
           <Note>
-            <pitch>74</pitch>
-            <tpc>16</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -4907,12 +4909,12 @@
             <text>can</text>
             </Lyrics>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
             </Note>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>71</pitch>
+            <tpc>19</tpc>
             </Note>
           <Note>
             <pitch>74</pitch>
@@ -4925,12 +4927,12 @@
             <text>let</text>
             </Lyrics>
           <Note>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <pitch>76</pitch>
@@ -4947,8 +4949,8 @@
             <tpc>20</tpc>
             </Note>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <pitch>76</pitch>
@@ -4963,14 +4965,14 @@
           <Note>
             <Tie id="86">
               </Tie>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           <Note>
             <Tie id="87">
               </Tie>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <Tie id="88">
@@ -4985,13 +4987,13 @@
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="86"/>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
             </Note>
           <Note>
             <endSpanner id="87"/>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>74</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <endSpanner id="88"/>
