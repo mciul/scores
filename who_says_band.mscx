@@ -4078,20 +4078,20 @@
           <Note>
             <Tie id="55">
               </Tie>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <Tie id="56">
-              </Tie>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <Tie id="57">
+            <Tie id="56">
               </Tie>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            </Note>
+          <Note>
+            <Tie id="57">
+              </Tie>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -4100,18 +4100,18 @@
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="55"/>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          <Note>
-            <endSpanner id="56"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
-            <endSpanner id="57"/>
+            <endSpanner id="56"/>
             <pitch>69</pitch>
             <tpc>17</tpc>
+            </Note>
+          <Note>
+            <endSpanner id="57"/>
+            <pitch>72</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Rest>
