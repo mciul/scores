@@ -8026,7 +8026,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>69</pitch>
+            <pitch>57</pitch>
             <tpc>17</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -8034,7 +8034,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>74</pitch>
+            <pitch>62</pitch>
             <tpc>16</tpc>
             <tpc2>18</tpc2>
             </Note>
@@ -8045,7 +8045,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>71</pitch>
+            <pitch>59</pitch>
             <tpc>19</tpc>
             <tpc2>21</tpc2>
             </Note>
@@ -8056,7 +8056,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>69</pitch>
+            <pitch>57</pitch>
             <tpc>17</tpc>
             <tpc2>19</tpc2>
             </Note>
@@ -8066,9 +8066,9 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <tpc2>17</tpc2>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -8077,9 +8077,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <tpc2>17</tpc2>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -8090,7 +8090,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -8098,7 +8098,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -8106,7 +8106,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -8114,7 +8114,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -8125,7 +8125,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>79</pitch>
+            <pitch>67</pitch>
             <tpc>15</tpc>
             <tpc2>17</tpc2>
             </Note>
@@ -10440,7 +10440,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>66</pitch>
+            <pitch>54</pitch>
             <tpc>20</tpc>
             <tpc2>22</tpc2>
             </Note>
@@ -10480,9 +10480,9 @@
         <Chord>
           <durationType>half</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -10491,9 +10491,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Rest>
