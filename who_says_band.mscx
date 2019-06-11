@@ -7861,7 +7861,18 @@
         </Measure>
       <Measure number="66">
         <Rest>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <durationType>eighth</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <durationType>quarter</durationType>
@@ -10528,7 +10539,21 @@
       <Measure number="66">
         <Rest>
           <lid>344</lid>
-          <durationType>half</durationType>
+          <durationType>eighth</durationType>
+          </Rest>
+        <Chord>
+          <lid>686</lid>
+          <durationType>eighth</durationType>
+          <Note>
+            <lid>687</lid>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
+            </Note>
+          </Chord>
+        <Rest>
+          <lid>683</lid>
+          <durationType>quarter</durationType>
           </Rest>
         <Chord>
           <lid>346</lid>
@@ -23049,6 +23074,8 @@
             </System>
           <System>
             </System>
+          <System>
+            </System>
           </Page>
         </PageList>
       <Part>
@@ -24888,7 +24915,21 @@
         <Measure number="66">
           <Rest>
             <lid>344</lid>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Chord>
+            <lid>686</lid>
+            <durationType>eighth</durationType>
+            <Note>
+              <lid>687</lid>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
+          <Rest>
+            <lid>683</lid>
+            <durationType>quarter</durationType>
             </Rest>
           <Chord>
             <lid>346</lid>
