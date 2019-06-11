@@ -100,7 +100,6 @@
         <Channel>
           <program value="54"/>
           <synti>Fluid</synti>
-          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -152,7 +151,6 @@
         <Channel>
           <program value="53"/>
           <synti>Fluid</synti>
-          <solo>1</solo>
           </Channel>
         </Instrument>
       </Part>
@@ -3541,48 +3539,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -6415,48 +6371,6 @@
         <Rest>
           <durationType>quarter</durationType>
           </Rest>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -8844,21 +8758,18 @@
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
-            <pitch>69</pitch>
-            <tpc>17</tpc>
-            <tpc2>19</tpc2>
+            <pitch>66</pitch>
+            <tpc>20</tpc>
+            <tpc2>22</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <tpc2>17</tpc2>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -8867,9 +8778,9 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
-            <tpc2>20</tpc2>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
+            <tpc2>16</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -8877,55 +8788,11 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <pitch>59</pitch>
+            <tpc>19</tpc>
+            <tpc2>21</tpc2>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        <Rest>
-          <durationType>half</durationType>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -11739,23 +11606,23 @@
             </Note>
           </Chord>
         <Chord>
-          <lid>563</lid>
+          <lid>674</lid>
           <durationType>eighth</durationType>
           <Note>
-            <lid>564</lid>
-            <pitch>66</pitch>
-            <tpc>20</tpc>
-            <tpc2>22</tpc2>
+            <lid>675</lid>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            <tpc2>19</tpc2>
             </Note>
           </Chord>
         <Chord>
-          <lid>565</lid>
+          <lid>676</lid>
           <durationType>eighth</durationType>
           <Note>
-            <lid>566</lid>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            <tpc2>18</tpc2>
+            <lid>677</lid>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <tpc2>17</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -11766,10 +11633,10 @@
             <lid>567</lid>
             </Articulation>
           <Note>
-            <lid>569</lid>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
-            <tpc2>16</tpc2>
+            <lid>680</lid>
+            <pitch>52</pitch>
+            <tpc>18</tpc>
+            <tpc2>20</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -11778,65 +11645,15 @@
           <lid>570</lid>
           <durationType>whole</durationType>
           <Note>
-            <lid>571</lid>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <lid>681</lid>
+            <pitch>50</pitch>
+            <tpc>16</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <lid>572</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <lid>573</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <lid>574</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <lid>575</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <lid>576</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <lid>577</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <lid>578</lid>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
-          <lid>579</lid>
           </BarLine>
         </Measure>
       </Staff>
@@ -14081,48 +13898,6 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -17144,48 +16919,6 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -19438,48 +19171,6 @@
             <tpc>15</tpc>
             </Note>
           </Chord>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -23282,6 +22973,10 @@
           <durationType>measure</durationType>
           <duration z="4" n="4"/>
           </Rest>
+        <BarLine>
+          <subtype>end</subtype>
+          <span>1</span>
+          </BarLine>
         <tick>168960</tick>
         <Chord>
           <track>29</track>
@@ -23301,52 +22996,6 @@
           <track>29</track>
           <durationType>half</durationType>
           </Rest>
-        </Measure>
-      <Measure number="90">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="91">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="92">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="93">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="94">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="95">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        </Measure>
-      <Measure number="96">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="4" n="4"/>
-          </Rest>
-        <BarLine>
-          <subtype>end</subtype>
-          <span>1</span>
-          </BarLine>
         </Measure>
       </Staff>
     <Score>
@@ -26317,23 +25966,23 @@
               </Note>
             </Chord>
           <Chord>
-            <lid>563</lid>
+            <lid>674</lid>
             <durationType>eighth</durationType>
             <Note>
-              <lid>564</lid>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
-              <tpc2>22</tpc2>
+              <lid>675</lid>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
               </Note>
             </Chord>
           <Chord>
-            <lid>565</lid>
+            <lid>676</lid>
             <durationType>eighth</durationType>
             <Note>
-              <lid>566</lid>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              <tpc2>18</tpc2>
+              <lid>677</lid>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -26344,10 +25993,10 @@
               <lid>567</lid>
               </Articulation>
             <Note>
-              <lid>569</lid>
-              <pitch>60</pitch>
-              <tpc>14</tpc>
-              <tpc2>16</tpc2>
+              <lid>680</lid>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              <tpc2>20</tpc2>
               </Note>
             </Chord>
           </Measure>
@@ -26356,77 +26005,15 @@
             <lid>570</lid>
             <durationType>whole</durationType>
             <Note>
-              <lid>571</lid>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              <tpc2>21</tpc2>
+              <lid>681</lid>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              <tpc2>18</tpc2>
               </Note>
             </Chord>
-          </Measure>
-        <Measure number="90">
-          <Rest>
-            <lid>572</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="90" len="28/4">
-          <multiMeasureRest>7</multiMeasureRest>
-          <Rest>
-            <durationType>measure</durationType>
-            <duration z="28" n="4"/>
-            </Rest>
           <BarLine>
             <subtype>end</subtype>
             <span>1</span>
-            </BarLine>
-          </Measure>
-        <tick>172800</tick>
-        <Measure number="91">
-          <Rest>
-            <lid>573</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="92">
-          <Rest>
-            <lid>574</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="93">
-          <Rest>
-            <lid>575</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="94">
-          <Rest>
-            <lid>576</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="95">
-          <Rest>
-            <lid>577</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          </Measure>
-        <Measure number="96">
-          <Rest>
-            <lid>578</lid>
-            <durationType>measure</durationType>
-            <duration z="4" n="4"/>
-            </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <span>1</span>
-            <lid>579</lid>
             </BarLine>
           </Measure>
         </Staff>
