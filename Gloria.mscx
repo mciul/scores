@@ -576,6 +576,9 @@
           </BarLine>
         </Measure>
       <Measure number="3">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Note>
@@ -597,9 +600,6 @@
           </Chord>
         </Measure>
       <Measure number="4">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <TimeSig>
           <sigN>5</sigN>
           <sigD>4</sigD>
