@@ -857,6 +857,7 @@
       </Staff>
     <Staff id="2">
       <Measure number="1">
+        <vspacerUp>3</vspacerUp>
         <TimeSig>
           <sigN>2</sigN>
           <sigD>4</sigD>
@@ -876,6 +877,9 @@
           </Rest>
         </Measure>
       <Measure number="3">
+        <Harmony>
+          <root>14</root>
+          </Harmony>
         <Chord>
           <lid>107</lid>
           <durationType>half</durationType>
@@ -910,6 +914,9 @@
           </Chord>
         </Measure>
       <Measure number="4">
+        <Harmony>
+          <root>14</root>
+          </Harmony>
         <Chord>
           <lid>112</lid>
           <durationType>half</durationType>
@@ -944,6 +951,10 @@
           </Chord>
         </Measure>
       <Measure number="5">
+        <Harmony>
+          <root>17</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <lid>117</lid>
           <durationType>half</durationType>
@@ -978,6 +989,9 @@
           </Chord>
         </Measure>
       <Measure number="6">
+        <Harmony>
+          <root>15</root>
+          </Harmony>
         <Chord>
           <lid>122</lid>
           <durationType>half</durationType>
@@ -1019,6 +1033,9 @@
           </Rest>
         </Measure>
       <Measure number="8">
+        <Harmony>
+          <root>14</root>
+          </Harmony>
         <Chord>
           <lid>257</lid>
           <durationType>half</durationType>
@@ -1053,6 +1070,10 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <Harmony>
+          <root>17</root>
+          <name>m</name>
+          </Harmony>
         <Chord>
           <lid>262</lid>
           <durationType>half</durationType>
@@ -1087,6 +1108,10 @@
           </Chord>
         </Measure>
       <Measure number="10">
+        <vspacerUp>3</vspacerUp>
+        <Harmony>
+          <root>15</root>
+          </Harmony>
         <Chord>
           <lid>267</lid>
           <durationType>half</durationType>
@@ -1121,6 +1146,9 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>14</root>
+          </Harmony>
         <Chord>
           <lid>272</lid>
           <durationType>half</durationType>
@@ -1162,6 +1190,9 @@
           </Rest>
         </Measure>
       <Measure number="13">
+        <Harmony>
+          <root>13</root>
+          </Harmony>
         <Chord>
           <lid>314</lid>
           <durationType>half</durationType>
@@ -1240,6 +1271,9 @@
             <string>3</string>
             </Note>
           </Chord>
+        <Harmony>
+          <root>17</root>
+          </Harmony>
         <Chord>
           <lid>412</lid>
           <durationType>quarter</durationType>
@@ -1324,6 +1358,9 @@
           </Chord>
         </Measure>
       <Measure number="16">
+        <Harmony>
+          <root>14</root>
+          </Harmony>
         <Chord>
           <lid>401</lid>
           <durationType>half</durationType>
@@ -1358,6 +1395,9 @@
           </Chord>
         </Measure>
       <Measure number="17">
+        <Harmony>
+          <root>15</root>
+          </Harmony>
         <Chord>
           <lid>406</lid>
           <durationType>half</durationType>
