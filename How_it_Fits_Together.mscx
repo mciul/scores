@@ -3,14 +3,13 @@
   <programVersion>2.3.2</programVersion>
   <programRevision>4592407</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <concertPitch>1</concertPitch>
+      <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1683.38</page-height>
         <page-width>1190.89</page-width>
@@ -48,6 +47,48 @@
     <metaTag name="workTitle">How it Fits Together</metaTag>
     <PageList>
       <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
+        </Page>
+      <Page>
+        <System>
+          </System>
+        <System>
+          </System>
+        <System>
+          </System>
         <System>
           </System>
         </Page>
@@ -660,7 +701,7 @@
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>3</accidental>
+          <accidental>5</accidental>
           </KeySig>
         <TimeSig>
           <sigN>12</sigN>
@@ -774,6 +815,9 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <dots>1</dots>
           <durationType>whole</durationType>
@@ -1056,6 +1100,9 @@
           </Rest>
         </Measure>
       <Measure number="28">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="12" n="8"/>
@@ -1150,6 +1197,9 @@
           </Chord>
         </Measure>
       <Measure number="37">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <TimeSig>
           <sigN>3</sigN>
           <sigD>8</sigD>
@@ -1196,6 +1246,9 @@
           </Rest>
         </Measure>
       <Measure number="43">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="13" n="16"/>
@@ -1226,15 +1279,15 @@
           </Rest>
         </Measure>
       <Measure number="48">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="13" n="16"/>
           </Rest>
         </Measure>
       <Measure number="49">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <TimeSig>
           <sigN>15</sigN>
           <sigD>16</sigD>
@@ -1288,6 +1341,9 @@
           </Rest>
         </Measure>
       <Measure number="55">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="13" n="16"/>
@@ -1519,13 +1575,8 @@
         </Measure>
       <Measure number="76">
         <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>whole</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="77">
@@ -1641,7 +1692,7 @@
     <Staff id="2">
       <Measure number="1">
         <KeySig>
-          <accidental>3</accidental>
+          <accidental>5</accidental>
           </KeySig>
         <TimeSig>
           <sigN>12</sigN>
@@ -2480,13 +2531,8 @@
         </Measure>
       <Measure number="76">
         <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>whole</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="77">
@@ -3395,13 +3441,8 @@
         </Measure>
       <Measure number="76">
         <Rest>
-          <durationType>quarter</durationType>
-          </Rest>
-        <Rest>
-          <durationType>whole</durationType>
-          </Rest>
-        <Rest>
-          <durationType>quarter</durationType>
+          <durationType>measure</durationType>
+          <duration z="12" n="8"/>
           </Rest>
         </Measure>
       <Measure number="77">
@@ -11011,13 +11052,7 @@
             </Note>
           </Chord>
         <Rest>
-          <durationType>16th</durationType>
-          </Rest>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
-        <Rest>
-          <durationType>16th</durationType>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="39">
@@ -14697,10 +14732,11 @@
           <sigN>13</sigN>
           <sigD>16</sigD>
           <Groups>
-            <Node pos="6" action="272"/>
-            <Node pos="12" action="272"/>
-            <Node pos="16" action="272"/>
-            <Node pos="20" action="272"/>
+            <Node pos="4" action="272"/>
+            <Node pos="8" action="272"/>
+            <Node pos="14" action="272"/>
+            <Node pos="18" action="272"/>
+            <Node pos="22" action="272"/>
             </Groups>
           <showCourtesySig>1</showCourtesySig>
           </TimeSig>
@@ -14713,38 +14749,41 @@
             </Note>
           </Chord>
         <Chord>
-          <dots>1</dots>
-          <durationType>eighth</durationType>
+          <durationType>16th</durationType>
           <Note>
+            <Tie id="61">
+              </Tie>
             <pitch>33</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
+            <endSpanner id="61"/>
             <pitch>33</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
-          <durationType>eighth</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
+          <durationType>16th</durationType>
           <Note>
             <pitch>33</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
-        <Rest>
-          <durationType>eighth</durationType>
-          </Rest>
         <Rest>
           <durationType>16th</durationType>
+          </Rest>
+        <Chord>
+          <durationType>16th</durationType>
+          <Note>
+            <pitch>33</pitch>
+            <tpc>17</tpc>
+            </Note>
+          </Chord>
+        <Rest>
+          <durationType>quarter</durationType>
           </Rest>
         </Measure>
       <Measure number="39">
@@ -15351,7 +15390,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="61">
+            <Tie id="62">
               </Tie>
             <pitch>33</pitch>
             <tpc>17</tpc>
@@ -15360,7 +15399,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <endSpanner id="61"/>
+            <endSpanner id="62"/>
             <pitch>33</pitch>
             <tpc>17</tpc>
             </Note>
@@ -15418,7 +15457,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <Tie id="62">
+            <Tie id="63">
               </Tie>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -15427,7 +15466,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="62"/>
+            <endSpanner id="63"/>
             <pitch>32</pitch>
             <tpc>22</tpc>
             </Note>
@@ -15709,7 +15748,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <Tie id="63">
+            <Tie id="64">
               </Tie>
             <pitch>32</pitch>
             <tpc>22</tpc>
@@ -15718,7 +15757,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <endSpanner id="63"/>
+            <endSpanner id="64"/>
             <pitch>32</pitch>
             <tpc>22</tpc>
             </Note>
@@ -15824,7 +15863,7 @@
         <Chord>
           <durationType>eighth</durationType>
           <Note>
-            <Tie id="64">
+            <Tie id="65">
               </Tie>
             <pitch>29</pitch>
             <tpc>13</tpc>
@@ -15833,7 +15872,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <endSpanner id="64"/>
+            <endSpanner id="65"/>
             <pitch>29</pitch>
             <tpc>13</tpc>
             </Note>
@@ -15903,7 +15942,7 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <Tie id="65">
+            <Tie id="66">
               </Tie>
             <pitch>29</pitch>
             <tpc>13</tpc>
@@ -15912,7 +15951,7 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <endSpanner id="65"/>
+            <endSpanner id="66"/>
             <pitch>29</pitch>
             <tpc>13</tpc>
             </Note>
@@ -19903,7 +19942,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>25</track>
-            <Tie id="66">
+            <Tie id="67">
               <track>25</track>
               </Tie>
             <pitch>36</pitch>
@@ -19916,7 +19955,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>25</track>
-            <endSpanner id="66"/>
+            <endSpanner id="67"/>
             <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
@@ -20349,7 +20388,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>25</track>
-            <Tie id="67">
+            <Tie id="68">
               <track>25</track>
               </Tie>
             <pitch>36</pitch>
@@ -20362,7 +20401,7 @@
           <StemDirection>down</StemDirection>
           <Note>
             <track>25</track>
-            <endSpanner id="67"/>
+            <endSpanner id="68"/>
             <pitch>36</pitch>
             <tpc>14</tpc>
             </Note>
@@ -20438,7 +20477,7 @@
           <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <Tie id="68">
+            <Tie id="69">
               </Tie>
             <pitch>38</pitch>
             <tpc>16</tpc>
@@ -20448,7 +20487,7 @@
           <durationType>16th</durationType>
           <StemDirection>up</StemDirection>
           <Note>
-            <endSpanner id="68"/>
+            <endSpanner id="69"/>
             <pitch>38</pitch>
             <tpc>16</tpc>
             </Note>
