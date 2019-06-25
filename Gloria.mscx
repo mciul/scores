@@ -3406,8 +3406,11 @@
             <text>a</text>
             </Lyrics>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <Accidental>
+              <subtype>flat</subtype>
+              </Accidental>
+            <pitch>61</pitch>
+            <tpc>9</tpc>
             </Note>
           </Chord>
         <BarLine>
