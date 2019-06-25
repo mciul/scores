@@ -1445,10 +1445,15 @@
           </Rest>
         </Measure>
       <Measure number="78">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>19</tpc2>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -2226,10 +2231,15 @@
           </Rest>
         </Measure>
       <Measure number="78">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -2973,10 +2983,14 @@
           </Rest>
         </Measure>
       <Measure number="78">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <BarLine>
           <subtype>end</subtype>
           <span>1</span>
@@ -8822,10 +8836,25 @@
           </Rest>
         </Measure>
       <Measure number="78">
-        <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
-          </Rest>
+        <Chord>
+          <dots>1</dots>
+          <durationType>whole</durationType>
+          <Note>
+            <pitch>57</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            </Note>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            </Note>
+          <Arpeggio>
+            <subtype>0</subtype>
+            </Arpeggio>
+          </Chord>
         </Measure>
       </Staff>
     <Staff id="6">
