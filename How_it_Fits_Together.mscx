@@ -3,6 +3,7 @@
   <programVersion>2.3.2</programVersion>
   <programRevision>4592407</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Synthesizer>
@@ -47,48 +48,6 @@
     <metaTag name="workTitle">How it Fits Together</metaTag>
     <PageList>
       <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
-        </Page>
-      <Page>
-        <System>
-          </System>
-        <System>
-          </System>
-        <System>
-          </System>
         <System>
           </System>
         </Page>
@@ -16934,29 +16893,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -16969,29 +16928,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
-            <tpc>17</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17002,29 +16961,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17037,29 +16996,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17070,29 +17029,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17105,29 +17064,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>37</pitch>
-            <tpc>21</tpc>
+            <pitch>40</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17138,29 +17097,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17173,29 +17132,29 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>38</pitch>
-            <tpc>16</tpc>
+            <pitch>42</pitch>
+            <tpc>20</tpc>
             </Note>
           </Chord>
         <Rest>
@@ -17206,28 +17165,28 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
@@ -17241,28 +17200,28 @@
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
         <Chord>
           <durationType>16th</durationType>
           <Note>
-            <pitch>33</pitch>
+            <pitch>45</pitch>
             <tpc>17</tpc>
             </Note>
           </Chord>
