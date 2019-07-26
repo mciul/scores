@@ -2762,7 +2762,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>76</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
             <tpc2>20</tpc2>
             </Note>
@@ -2771,7 +2771,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>73</pitch>
+            <pitch>61</pitch>
             <tpc>21</tpc>
             <tpc2>23</tpc2>
             </Note>
@@ -2782,7 +2782,7 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>73</pitch>
+            <pitch>61</pitch>
             <tpc>21</tpc>
             <tpc2>23</tpc2>
             </Note>
@@ -2791,9 +2791,9 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -2804,18 +2804,18 @@
           <Note>
             <Tie id="26">
               </Tie>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
           <durationType>quarter</durationType>
           <Note>
             <endSpanner id="26"/>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
+            <tpc2>18</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -2977,9 +2977,20 @@
           </Chord>
         </Measure>
       <Measure number="91">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
+            <tpc2>19</tpc2>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="92">
@@ -5151,9 +5162,9 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         </Measure>
@@ -5162,9 +5173,9 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
-            <tpc2>21</tpc2>
+            <pitch>68</pitch>
+            <tpc>22</tpc>
+            <tpc2>24</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -5331,9 +5342,20 @@
           </Chord>
         </Measure>
       <Measure number="91">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <tpc2>20</tpc2>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="92">
@@ -7510,9 +7532,19 @@
           </Chord>
         </Measure>
       <Measure number="91">
+        <Chord>
+          <dots>1</dots>
+          <durationType>half</durationType>
+          <Note>
+            <pitch>61</pitch>
+            <tpc>21</tpc>
+            </Note>
+          </Chord>
         <Rest>
-          <durationType>measure</durationType>
-          <duration z="12" n="8"/>
+          <durationType>quarter</durationType>
+          </Rest>
+        <Rest>
+          <durationType>half</durationType>
           </Rest>
         </Measure>
       <Measure number="92">
