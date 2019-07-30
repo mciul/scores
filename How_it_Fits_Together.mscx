@@ -9,6 +9,7 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
+      <concertPitch>1</concertPitch>
       <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1683.38</page-height>
@@ -712,7 +713,7 @@
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>5</accidental>
+          <accidental>3</accidental>
           </KeySig>
         <TimeSig>
           <sigN>12</sigN>
@@ -1553,7 +1554,7 @@
             </Articulation>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -1701,7 +1702,7 @@
             </Articulation>
           <Note>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -3288,7 +3289,7 @@
       <Measure number="1">
         <KeySig>
           <lid>5</lid>
-          <accidental>5</accidental>
+          <accidental>3</accidental>
           </KeySig>
         <TimeSig>
           <lid>6</lid>
@@ -4106,14 +4107,14 @@
           <Note>
             <lid>3505</lid>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <Tie id="62">
               <lid>39</lid>
               </Tie>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4124,8 +4125,8 @@
             <lid>3507</lid>
             <endSpanner id="62"/>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4138,8 +4139,8 @@
           <Note>
             <lid>3510</lid>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4158,11 +4159,11 @@
           <Note>
             <lid>3514</lid>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>sharp</subtype>
               </Accidental>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4176,8 +4177,8 @@
           <Note>
             <lid>3517</lid>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Chord>
@@ -4190,8 +4191,8 @@
           <Note>
             <lid>3520</lid>
             <pitch>63</pitch>
-            <tpc>11</tpc>
-            <tpc2>13</tpc2>
+            <tpc>23</tpc>
+            <tpc2>25</tpc2>
             </Note>
           </Chord>
         <Rest>
@@ -4268,7 +4269,7 @@
           <Note>
             <lid>3533</lid>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -4448,7 +4449,7 @@
           <Note>
             <lid>3563</lid>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -4627,7 +4628,7 @@
           <Note>
             <lid>3592</lid>
             <Accidental>
-              <subtype>natural</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -56739,14 +56740,14 @@
             <Note>
               <lid>3505</lid>
               <Accidental>
-                <subtype>natural</subtype>
+                <subtype>sharp</subtype>
                 </Accidental>
               <Tie id="199">
                 <lid>39</lid>
                 </Tie>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -56757,8 +56758,8 @@
               <lid>3507</lid>
               <endSpanner id="199"/>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -56771,8 +56772,8 @@
             <Note>
               <lid>3510</lid>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -56791,11 +56792,11 @@
             <Note>
               <lid>3514</lid>
               <Accidental>
-                <subtype>natural</subtype>
+                <subtype>sharp</subtype>
                 </Accidental>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Rest>
@@ -56809,8 +56810,8 @@
             <Note>
               <lid>3517</lid>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Chord>
@@ -56823,8 +56824,8 @@
             <Note>
               <lid>3520</lid>
               <pitch>63</pitch>
-              <tpc>11</tpc>
-              <tpc2>13</tpc2>
+              <tpc>23</tpc>
+              <tpc2>25</tpc2>
               </Note>
             </Chord>
           <Rest>
