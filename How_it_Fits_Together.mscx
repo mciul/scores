@@ -9,7 +9,6 @@
       </Synthesizer>
     <Division>480</Division>
     <Style>
-      <concertPitch>1</concertPitch>
       <hideEmptyStaves>1</hideEmptyStaves>
       <page-layout>
         <page-height>1683.38</page-height>
@@ -713,7 +712,7 @@
         </VBox>
       <Measure number="1">
         <KeySig>
-          <accidental>3</accidental>
+          <accidental>5</accidental>
           </KeySig>
         <TimeSig>
           <sigN>12</sigN>
@@ -1554,7 +1553,7 @@
             </Articulation>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -1702,7 +1701,7 @@
             </Articulation>
           <Note>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
@@ -3289,7 +3288,7 @@
       <Measure number="1">
         <KeySig>
           <lid>5</lid>
-          <accidental>3</accidental>
+          <accidental>5</accidental>
           </KeySig>
         <TimeSig>
           <lid>6</lid>
@@ -4269,7 +4268,7 @@
           <Note>
             <lid>3533</lid>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -4449,7 +4448,7 @@
           <Note>
             <lid>3563</lid>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -4628,7 +4627,7 @@
           <Note>
             <lid>3592</lid>
             <Accidental>
-              <subtype>flat</subtype>
+              <subtype>natural</subtype>
               </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
@@ -16544,8 +16543,8 @@
         </Measure>
       <Measure number="8">
         <Harmony>
-          <root>16</root>
-          <name>6sus2</name>
+          <root>18</root>
+          <base>16</base>
           <lid>293</lid>
           </Harmony>
         <Chord>
@@ -47628,8 +47627,8 @@
           </Measure>
         <Measure number="8">
           <Harmony>
-            <root>16</root>
-            <name>6sus2</name>
+            <root>18</root>
+            <base>16</base>
             <lid>293</lid>
             </Harmony>
           <Chord>
