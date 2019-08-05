@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.2.1</programVersion>
-  <programRevision>51b8386</programRevision>
+  <programVersion>2.3.2</programVersion>
+  <programRevision>4592407</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -458,7 +458,7 @@
           <transposingClefType>G</transposingClefType>
           </Clef>
         <KeySig>
-          <accidental>1</accidental>
+          <accidental>-2</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
@@ -530,9 +530,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -640,9 +637,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -799,6 +793,9 @@
             <text>ev</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <Tie id="3">
               </Tie>
             <pitch>78</pitch>
@@ -824,6 +821,9 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>78</pitch>
             <tpc>20</tpc>
             </Note>
@@ -852,6 +852,9 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -859,9 +862,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>77</pitch>
             <tpc>13</tpc>
             </Note>
@@ -926,6 +926,9 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -980,9 +983,6 @@
           </Chord>
         </Measure>
       <Measure number="14">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <StemDirection>down</StemDirection>
@@ -1022,6 +1022,9 @@
           </Rest>
         </Measure>
       <Measure number="16">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="1"/>
@@ -1088,9 +1091,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1198,9 +1198,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1315,6 +1312,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -1414,6 +1414,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -1510,6 +1513,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -1597,9 +1603,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1618,9 +1621,6 @@
           </Chord>
         </Measure>
       <Measure number="32">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>half</durationType>
           <Lyrics>
@@ -1687,6 +1687,9 @@
           </Chord>
         </Measure>
       <Measure number="34">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Rest>
           <durationType>measure</durationType>
           <duration z="1" n="1"/>
@@ -1732,9 +1735,6 @@
             <text>wan</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1753,9 +1753,6 @@
           </Chord>
         </Measure>
       <Measure number="36">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1808,9 +1805,6 @@
             <text>bo</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -1871,12 +1865,18 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="38">
+        <LayoutBreak>
+          <subtype>line</subtype>
+          </LayoutBreak>
         <Chord>
           <durationType>quarter</durationType>
           <Lyrics>
@@ -1886,10 +1886,10 @@
           <StemDirection>up</StemDirection>
           <Note>
             <Accidental>
-              <subtype>sharp</subtype>
+              <subtype>flat</subtype>
               </Accidental>
             <pitch>68</pitch>
-            <tpc>22</tpc>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1901,7 +1901,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
-            <tpc>22</tpc>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1913,7 +1913,7 @@
           <StemDirection>up</StemDirection>
           <Note>
             <pitch>68</pitch>
-            <tpc>22</tpc>
+            <tpc>10</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -1923,6 +1923,9 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
@@ -1970,24 +1973,21 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="40">
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <Chord>
           <durationType>whole</durationType>
           <Lyrics>
             <text>star</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>66</pitch>
             <tpc>20</tpc>
             </Note>
@@ -2048,9 +2048,6 @@
             <text>got</text>
             </Lyrics>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2168,9 +2165,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2278,9 +2272,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2395,6 +2386,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2494,6 +2488,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2590,6 +2587,9 @@
             <text>ber</text>
             </Lyrics>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -2677,9 +2677,6 @@
             </Lyrics>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2822,7 +2819,7 @@
           <transposingClefType>G8vb</transposingClefType>
           </Clef>
         <KeySig>
-          <accidental>1</accidental>
+          <accidental>-2</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
@@ -2876,9 +2873,6 @@
           <durationType>eighth</durationType>
           <Beam>25</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -2952,23 +2946,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3039,9 +3024,6 @@
           <durationType>eighth</durationType>
           <Beam>28</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3115,23 +3097,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3155,6 +3128,11 @@
           </Chord>
         </Measure>
       <Measure number="9">
+        <vspacerUp>3</vspacerUp>
+        <Harmony>
+          <root>15</root>
+          <name>5</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -3181,9 +3159,16 @@
           </Chord>
         </Measure>
       <Measure number="11">
+        <Harmony>
+          <root>16</root>
+          <base>20</base>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>54</pitch>
             <tpc>20</tpc>
             </Note>
@@ -3194,12 +3179,13 @@
           </Chord>
         </Measure>
       <Measure number="12">
+        <Harmony>
+          <root>13</root>
+          <name>5</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
@@ -3210,9 +3196,17 @@
           </Chord>
         </Measure>
       <Measure number="13">
+        <vspacerUp>3</vspacerUp>
+        <Harmony>
+          <root>14</root>
+          <base>18</base>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3223,6 +3217,10 @@
           </Chord>
         </Measure>
       <Measure number="14">
+        <Harmony>
+          <root>14</root>
+          <name>5</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
@@ -3239,6 +3237,10 @@
             <tpc>14</tpc>
             </Note>
           </Chord>
+        <Harmony>
+          <root>16</root>
+          <name>5</name>
+          </Harmony>
         <Chord>
           <durationType>half</durationType>
           <StemDirection>up</StemDirection>
@@ -3304,9 +3306,6 @@
           <durationType>eighth</durationType>
           <Beam>31</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3424,9 +3423,6 @@
           <durationType>eighth</durationType>
           <Beam>34</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3500,23 +3496,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3587,9 +3574,6 @@
           <durationType>eighth</durationType>
           <Beam>37</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3663,23 +3647,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3723,14 +3698,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3757,14 +3741,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3791,14 +3784,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>52</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>59</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
@@ -3808,23 +3810,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>51</pitch>
             <tpc>11</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
@@ -3904,9 +3897,6 @@
           <durationType>eighth</durationType>
           <Beam>40</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -3977,6 +3967,11 @@
           </Chord>
         </Measure>
       <Measure number="35">
+        <vspacerUp>3</vspacerUp>
+        <Harmony>
+          <root>15</root>
+          <name>5</name>
+          </Harmony>
         <Beam id="42">
           <StemDirection>down</StemDirection>
           </Beam>
@@ -4055,6 +4050,10 @@
           </Chord>
         </Measure>
       <Measure number="36">
+        <Harmony>
+          <root>15</root>
+          <name>5</name>
+          </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
@@ -4073,8 +4072,9 @@
         </Measure>
       <Measure number="37">
         <Harmony>
-          <root>17</root>
+          <root>16</root>
           <name>5</name>
+          <pos x="0" y="-3.1"/>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4083,8 +4083,8 @@
             <tpc>17</tpc>
             </Note>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           <Note>
             <pitch>69</pitch>
@@ -4094,30 +4094,32 @@
         </Measure>
       <Measure number="38">
         <Harmony>
-          <root>18</root>
+          <root>12</root>
           <name>5</name>
-          <base>19</base>
+          <pos x="0" y="-3.1"/>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <pitch>59</pitch>
-            <tpc>19</tpc>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           <Note>
-            <pitch>64</pitch>
-            <tpc>18</tpc>
+            <pitch>65</pitch>
+            <tpc>13</tpc>
             </Note>
           <Note>
-            <pitch>71</pitch>
-            <tpc>19</tpc>
+            <pitch>70</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
       <Measure number="39">
+        <vspacerUp>3</vspacerUp>
         <Harmony>
           <root>14</root>
           <name>5</name>
+          <pos x="0" y="-3.1"/>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4139,6 +4141,7 @@
         <Harmony>
           <root>16</root>
           <name>5</name>
+          <pos x="0" y="-3.3"/>
           </Harmony>
         <Chord>
           <durationType>whole</durationType>
@@ -4238,9 +4241,6 @@
           <durationType>eighth</durationType>
           <Beam>45</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4358,9 +4358,6 @@
           <durationType>eighth</durationType>
           <Beam>48</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4434,23 +4431,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4521,9 +4509,6 @@
           <durationType>eighth</durationType>
           <Beam>51</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4597,23 +4582,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>53</pitch>
             <tpc>13</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4657,14 +4633,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -4691,14 +4676,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -4725,14 +4719,23 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>64</pitch>
             <tpc>18</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>71</pitch>
             <tpc>19</tpc>
             </Note>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>76</pitch>
             <tpc>18</tpc>
             </Note>
@@ -4742,23 +4745,14 @@
         <Chord>
           <durationType>whole</durationType>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>63</pitch>
             <tpc>11</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>70</pitch>
             <tpc>12</tpc>
             </Note>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>75</pitch>
             <tpc>11</tpc>
             </Note>
@@ -4838,9 +4832,6 @@
           <durationType>eighth</durationType>
           <Beam>54</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>58</pitch>
             <tpc>12</tpc>
             </Note>
@@ -4946,7 +4937,7 @@
           <transposingClefType>F</transposingClefType>
           </Clef>
         <KeySig>
-          <accidental>1</accidental>
+          <accidental>-2</accidental>
           </KeySig>
         <TimeSig>
           <sigN>4</sigN>
@@ -5039,9 +5030,6 @@
           <durationType>eighth</durationType>
           <Beam>58</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -5120,9 +5108,6 @@
           <durationType>eighth</durationType>
           <Beam>60</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -5357,9 +5342,6 @@
           <durationType>eighth</durationType>
           <Beam>66</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -5438,9 +5420,6 @@
           <durationType>eighth</durationType>
           <Beam>68</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -5685,6 +5664,9 @@
           <durationType>eighth</durationType>
           <Beam>73</Beam>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>42</pitch>
             <tpc>20</tpc>
             </Note>
@@ -5701,6 +5683,9 @@
             </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>42</pitch>
             <tpc>20</tpc>
             </Note>
@@ -5748,9 +5733,6 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>41</pitch>
             <tpc>13</tpc>
             </Note>
@@ -5793,6 +5775,9 @@
           <durationType>eighth</durationType>
           <Beam>75</Beam>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -5809,6 +5794,9 @@
             </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -5978,9 +5966,6 @@
           <durationType>eighth</durationType>
           <Beam>79</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -6137,9 +6122,6 @@
           <durationType>eighth</durationType>
           <Beam>83</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -6218,9 +6200,6 @@
           <durationType>eighth</durationType>
           <Beam>85</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -6455,9 +6434,6 @@
           <durationType>eighth</durationType>
           <Beam>91</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -6536,9 +6512,6 @@
           <durationType>eighth</durationType>
           <Beam>93</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -6769,6 +6742,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -6904,6 +6880,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -7039,6 +7018,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -7086,6 +7068,9 @@
           <durationType>eighth</durationType>
           <Beam>105</Beam>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>42</pitch>
             <tpc>20</tpc>
             </Note>
@@ -7099,9 +7084,6 @@
             </Articulation>
           <StemDirection>down</StemDirection>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>39</pitch>
             <tpc>11</tpc>
             </Note>
@@ -7133,9 +7115,6 @@
           <durationType>eighth</durationType>
           <Beam>106</Beam>
           <Note>
-            <Accidental>
-              <subtype>natural</subtype>
-              </Accidental>
             <pitch>41</pitch>
             <tpc>13</tpc>
             </Note>
@@ -7188,6 +7167,9 @@
           <durationType>eighth</durationType>
           <Beam>107</Beam>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>42</pitch>
             <tpc>20</tpc>
             </Note>
@@ -7268,9 +7250,6 @@
           <durationType>eighth</durationType>
           <Beam>109</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -7349,9 +7328,6 @@
           <durationType>eighth</durationType>
           <Beam>111</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -7518,8 +7494,8 @@
           <durationType>eighth</durationType>
           <Beam>114</Beam>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>34</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -7534,8 +7510,8 @@
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>34</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -7545,8 +7521,8 @@
             </Articulation>
           <StemDirection>up</StemDirection>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>34</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Beam id="115">
@@ -7557,8 +7533,8 @@
           <durationType>eighth</durationType>
           <Beam>115</Beam>
           <Note>
-            <pitch>35</pitch>
-            <tpc>19</tpc>
+            <pitch>34</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -7920,9 +7896,6 @@
           <durationType>eighth</durationType>
           <Beam>125</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8079,9 +8052,6 @@
           <durationType>eighth</durationType>
           <Beam>129</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8160,9 +8130,6 @@
           <durationType>eighth</durationType>
           <Beam>131</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8397,9 +8364,6 @@
           <durationType>eighth</durationType>
           <Beam>137</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>46</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8478,9 +8442,6 @@
           <durationType>eighth</durationType>
           <Beam>139</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
@@ -8711,6 +8672,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -8846,6 +8810,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -8981,6 +8948,9 @@
           <durationType>eighth</durationType>
           <StemDirection>down</StemDirection>
           <Note>
+            <Accidental>
+              <subtype>natural</subtype>
+              </Accidental>
             <pitch>40</pitch>
             <tpc>18</tpc>
             </Note>
@@ -9028,6 +8998,9 @@
           <durationType>eighth</durationType>
           <Beam>151</Beam>
           <Note>
+            <Accidental>
+              <subtype>sharp</subtype>
+              </Accidental>
             <pitch>42</pitch>
             <tpc>20</tpc>
             </Note>
@@ -9042,9 +9015,6 @@
           <durationType>eighth</durationType>
           <Beam>152</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>39</pitch>
             <tpc>11</tpc>
             </Note>
@@ -9282,9 +9252,6 @@
           <durationType>eighth</durationType>
           <Beam>158</Beam>
           <Note>
-            <Accidental>
-              <subtype>flat</subtype>
-              </Accidental>
             <pitch>34</pitch>
             <tpc>12</tpc>
             </Note>
