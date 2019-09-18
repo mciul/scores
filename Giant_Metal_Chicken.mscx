@@ -41,7 +41,7 @@
     <metaTag name="movementTitle"></metaTag>
     <metaTag name="platform">Apple Macintosh</metaTag>
     <metaTag name="poet"></metaTag>
-    <metaTag name="source">https://musescore.com/score/5109367</metaTag>
+    <metaTag name="source">https://musescore.com/user/28668831/scores/5109367</metaTag>
     <metaTag name="translator"></metaTag>
     <metaTag name="workNumber"></metaTag>
     <metaTag name="workTitle">Giant Metal Chicken</metaTag>
@@ -620,6 +620,11 @@
           <lid>2</lid>
           <style>Title</style>
           <text>Giant Metal Chicken</text>
+          </Text>
+        <Text>
+          <lid>1512</lid>
+          <style>Composer</style>
+          <text>Robert M Lowe and Mike Ciul</text>
           </Text>
         </VBox>
       <Measure number="1">
@@ -19745,6 +19750,11 @@
           <Text>
             <style>Instrument Name (Part)</style>
             <text>Bass</text>
+            </Text>
+          <Text>
+            <lid>1512</lid>
+            <style>Composer</style>
+            <text>Robert M Lowe and Mike Ciul</text>
             </Text>
           </VBox>
         <Measure number="1">
