@@ -3858,6 +3858,13 @@
           <lid>204</lid>
           <durationType>whole</durationType>
           <Note>
+            <lid>206</lid>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <fret>0</fret>
+            <string>2</string>
+            </Note>
+          <Note>
             <lid>205</lid>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -3865,11 +3872,11 @@
             <string>3</string>
             </Note>
           <Note>
-            <lid>206</lid>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <fret>12</fret>
-            <string>2</string>
+            <lid>208</lid>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <fret>0</fret>
+            <string>0</string>
             </Note>
           <Note>
             <lid>207</lid>
@@ -3877,13 +3884,6 @@
             <tpc>14</tpc>
             <fret>13</fret>
             <string>1</string>
-            </Note>
-          <Note>
-            <lid>208</lid>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <fret>12</fret>
-            <string>0</string>
             </Note>
           <Arpeggio>
             <lid>209</lid>
@@ -3991,8 +3991,18 @@
           <lid>222</lid>
           <durationType>whole</durationType>
           <Note>
-            <lid>223</lid>
+            <lid>224</lid>
             <Tie id="29">
+              <lid>229</lid>
+              </Tie>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <fret>0</fret>
+            <string>2</string>
+            </Note>
+          <Note>
+            <lid>223</lid>
+            <Tie id="30">
               <lid>228</lid>
               </Tie>
             <pitch>64</pitch>
@@ -4001,34 +4011,24 @@
             <string>3</string>
             </Note>
           <Note>
-            <lid>224</lid>
-            <Tie id="30">
-              <lid>229</lid>
+            <lid>226</lid>
+            <Tie id="31">
+              <lid>231</lid>
               </Tie>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <fret>12</fret>
-            <string>2</string>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <fret>0</fret>
+            <string>0</string>
             </Note>
           <Note>
             <lid>225</lid>
-            <Tie id="31">
+            <Tie id="32">
               <lid>230</lid>
               </Tie>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <fret>13</fret>
             <string>1</string>
-            </Note>
-          <Note>
-            <lid>226</lid>
-            <Tie id="32">
-              <lid>231</lid>
-              </Tie>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <fret>12</fret>
-            <string>0</string>
             </Note>
           <Arpeggio>
             <lid>227</lid>
@@ -4041,36 +4041,36 @@
           <lid>232</lid>
           <durationType>whole</durationType>
           <Note>
-            <lid>233</lid>
+            <lid>234</lid>
             <endSpanner id="29"/>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
+            <fret>0</fret>
+            <string>2</string>
+            </Note>
+          <Note>
+            <lid>233</lid>
+            <endSpanner id="30"/>
             <pitch>64</pitch>
             <tpc>18</tpc>
             <fret>14</fret>
             <string>3</string>
             </Note>
           <Note>
-            <lid>234</lid>
-            <endSpanner id="30"/>
-            <pitch>67</pitch>
-            <tpc>15</tpc>
-            <fret>12</fret>
-            <string>2</string>
+            <lid>236</lid>
+            <endSpanner id="31"/>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
+            <fret>0</fret>
+            <string>0</string>
             </Note>
           <Note>
             <lid>235</lid>
-            <endSpanner id="31"/>
+            <endSpanner id="32"/>
             <pitch>72</pitch>
             <tpc>14</tpc>
             <fret>13</fret>
             <string>1</string>
-            </Note>
-          <Note>
-            <lid>236</lid>
-            <endSpanner id="32"/>
-            <pitch>76</pitch>
-            <tpc>18</tpc>
-            <fret>12</fret>
-            <string>0</string>
             </Note>
           </Chord>
         </Measure>
@@ -6989,9 +6989,9 @@
             </Note>
           <Note>
             <lid>206</lid>
-            <pitch>67</pitch>
+            <pitch>55</pitch>
             <tpc>15</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>2</string>
             </Note>
           <Note>
@@ -7003,9 +7003,9 @@
             </Note>
           <Note>
             <lid>208</lid>
-            <pitch>76</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>0</string>
             </Note>
           <Arpeggio>
@@ -7117,9 +7117,9 @@
             <Tie id="35">
               <lid>229</lid>
               </Tie>
-            <pitch>67</pitch>
+            <pitch>55</pitch>
             <tpc>15</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>2</string>
             </Note>
           <Note>
@@ -7137,9 +7137,9 @@
             <Tie id="37">
               <lid>231</lid>
               </Tie>
-            <pitch>76</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>0</string>
             </Note>
           <Arpeggio>
@@ -7163,9 +7163,9 @@
           <Note>
             <lid>234</lid>
             <endSpanner id="35"/>
-            <pitch>67</pitch>
+            <pitch>55</pitch>
             <tpc>15</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>2</string>
             </Note>
           <Note>
@@ -7179,9 +7179,9 @@
           <Note>
             <lid>236</lid>
             <endSpanner id="37"/>
-            <pitch>76</pitch>
+            <pitch>64</pitch>
             <tpc>18</tpc>
-            <fret>12</fret>
+            <fret>0</fret>
             <string>0</string>
             </Note>
           </Chord>
