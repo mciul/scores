@@ -5510,8 +5510,8 @@
           <Tuplet>29</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5521,8 +5521,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5567,8 +5567,8 @@
           <Tuplet>30</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5578,8 +5578,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5624,8 +5624,8 @@
           <Tuplet>31</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5635,8 +5635,8 @@
             <subtype>staccato</subtype>
             </Articulation>
           <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
+            <pitch>64</pitch>
+            <tpc>18</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5830,8 +5830,8 @@
           <Tuplet>35</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5840,14 +5840,6 @@
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>35</Tuplet>
-          <durationType>quarter</durationType>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -5856,9 +5848,6 @@
         <Chord>
           <Tuplet>35</Tuplet>
           <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -5867,9 +5856,20 @@
         <Chord>
           <Tuplet>35</Tuplet>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>35</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -5887,8 +5887,8 @@
           <Tuplet>36</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5897,14 +5897,6 @@
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>36</Tuplet>
-          <durationType>quarter</durationType>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -5913,9 +5905,6 @@
         <Chord>
           <Tuplet>36</Tuplet>
           <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -5924,9 +5913,20 @@
         <Chord>
           <Tuplet>36</Tuplet>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>36</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
@@ -5944,8 +5944,8 @@
           <Tuplet>37</Tuplet>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>60</pitch>
-            <tpc>14</tpc>
+            <pitch>62</pitch>
+            <tpc>16</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -5954,14 +5954,6 @@
           <Articulation>
             <subtype>staccato</subtype>
             </Articulation>
-          <Note>
-            <pitch>62</pitch>
-            <tpc>16</tpc>
-            </Note>
-          </Chord>
-        <Chord>
-          <Tuplet>37</Tuplet>
-          <durationType>quarter</durationType>
           <Note>
             <pitch>64</pitch>
             <tpc>18</tpc>
@@ -5970,9 +5962,6 @@
         <Chord>
           <Tuplet>37</Tuplet>
           <durationType>quarter</durationType>
-          <Articulation>
-            <subtype>staccato</subtype>
-            </Articulation>
           <Note>
             <pitch>65</pitch>
             <tpc>13</tpc>
@@ -5981,9 +5970,20 @@
         <Chord>
           <Tuplet>37</Tuplet>
           <durationType>quarter</durationType>
+          <Articulation>
+            <subtype>staccato</subtype>
+            </Articulation>
           <Note>
             <pitch>67</pitch>
             <tpc>15</tpc>
+            </Note>
+          </Chord>
+        <Chord>
+          <Tuplet>37</Tuplet>
+          <durationType>quarter</durationType>
+          <Note>
+            <pitch>69</pitch>
+            <tpc>17</tpc>
             </Note>
           </Chord>
         </Measure>
