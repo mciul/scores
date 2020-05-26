@@ -1293,8 +1293,8 @@
               </Note>
             </Chord>
           <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
+            <subtype>mp</subtype>
+            <velocity>64</velocity>
             </Dynamic>
           <Spanner type="HairPin">
             <prev>
@@ -6161,8 +6161,8 @@
       <Measure>
         <voice>
           <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
+            <subtype>ff</subtype>
+            <velocity>112</velocity>
             </Dynamic>
           <Chord>
             <durationType>whole</durationType>
@@ -6175,6 +6175,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            </Dynamic>
           <Chord>
             <durationType>whole</durationType>
             <Note>
