@@ -747,8 +747,8 @@
         </Staff>
       <trackName>Electric Guitar</trackName>
       <Instrument>
-        <longName>Electric Guitar</longName>
-        <shortName>El. Guit.</shortName>
+        <longName>Lead Guitar</longName>
+        <shortName>Ld. Guit.</shortName>
         <trackName>Electric Guitar</trackName>
         <minPitchP>40</minPitchP>
         <maxPitchP>86</maxPitchP>
@@ -794,8 +794,10 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="27"/>
-          <controller ctrl="7" value="61"/>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="0"/>
+          <program value="29"/>
+          <controller ctrl="7" value="69"/>
           <synti>Fluid</synti>
           <midiPort>1</midiPort>
           <midiChannel>4</midiChannel>
@@ -809,10 +811,10 @@
           </StaffType>
         <defaultClef>G8vb</defaultClef>
         </Staff>
-      <trackName>Electric Guitar</trackName>
+      <trackName>Rhythm Guitar</trackName>
       <Instrument>
-        <longName>Electric Guitar</longName>
-        <shortName>El. Guit.</shortName>
+        <longName>Rhythm Guitar</longName>
+        <shortName>Rh. Guit.</shortName>
         <trackName>Electric Guitar</trackName>
         <minPitchP>40</minPitchP>
         <maxPitchP>86</maxPitchP>
@@ -858,18 +860,18 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
-          <program value="27"/>
-          <controller ctrl="7" value="41"/>
+          <controller ctrl="0" value="0"/>
+          <controller ctrl="32" value="0"/>
+          <program value="30"/>
+          <controller ctrl="7" value="115"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>1</midiPort>
           <midiChannel>5</midiChannel>
           </Channel>
         <Channel name="harmony">
           <program value="0"/>
-          <controller ctrl="7" value="41"/>
+          <controller ctrl="7" value="115"/>
           <synti>Fluid</synti>
-          <mute>1</mute>
           <midiPort>1</midiPort>
           <midiChannel>10</midiChannel>
           </Channel>
@@ -1449,9 +1451,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Rest>
             <linkedMain/>
