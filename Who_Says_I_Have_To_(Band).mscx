@@ -16591,6 +16591,7 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
+                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -16668,6 +16669,7 @@
               <linkedMain/>
               <Spanner type="Tie">
                 <Tie>
+                  <linkedMain/>
                   </Tie>
                 <next>
                   <location>
@@ -34052,6 +34054,18 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-7/8</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>60</pitch>
                 <tpc>14</tpc>
                 <tpc2>16</tpc2>
@@ -34068,6 +34082,14 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>7/8</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>60</pitch>
                 <tpc>14</tpc>
                 <tpc2>16</tpc2>
@@ -34122,6 +34144,18 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-7/8</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 <tpc2>18</tpc2>
@@ -34138,6 +34172,14 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>7/8</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>62</pitch>
                 <tpc>16</tpc>
                 <tpc2>18</tpc2>
