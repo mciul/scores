@@ -5229,10 +5229,15 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
             <linkedMain/>
-            </BarLine>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -10606,10 +10611,15 @@
             <linkedMain/>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
             <linkedMain/>
-            </BarLine>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -13596,14 +13606,39 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>67</pitch>
               <tpc>15</tpc>
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>67</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       </Staff>
@@ -17119,14 +17154,42 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>55</pitch>
               <tpc>15</tpc>
               <tpc2>17</tpc2>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <linkedMain/>
+            <durationType>whole</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              <tpc2>17</tpc2>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       </Staff>
@@ -19784,13 +19847,37 @@
           <Chord>
             <durationType>whole</durationType>
             <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>50</pitch>
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <durationType>whole</durationType>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       </Staff>
@@ -23126,9 +23213,14 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
+            </Rest>
           </voice>
         </Measure>
       </Staff>
@@ -26371,14 +26463,40 @@
             <durationType>whole</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>31</pitch>
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <BarLine>
-            <subtype>end</subtype>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
             <linkedMain/>
-            </BarLine>
+            <durationType>whole</durationType>
+            <Note>
+              <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>31</pitch>
+              <tpc>15</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       </Staff>
@@ -30139,9 +30257,6 @@
             <durationType>measure</durationType>
             <duration>4/4</duration>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            </BarLine>
           </voice>
         <voice>
           <Chord>
@@ -30157,6 +30272,14 @@
             </Rest>
           <Rest>
             <durationType>half</durationType>
+            </Rest>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Rest>
+            <durationType>measure</durationType>
+            <duration>4/4</duration>
             </Rest>
           </voice>
         </Measure>
@@ -34685,14 +34808,45 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>55</pitch>
                 <tpc>15</tpc>
                 <tpc2>17</tpc2>
                 </Note>
               </Chord>
-            <BarLine>
-              <subtype>end</subtype>
-              </BarLine>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      </location>
+                    </prev>
+                  </Spanner>
+                <pitch>55</pitch>
+                <tpc>15</tpc>
+                <tpc2>17</tpc2>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         </Staff>
@@ -40112,11 +40266,16 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <BarLine>
-              <subtype>end</subtype>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Rest>
               <linked>
                 </linked>
-              </BarLine>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
+              </Rest>
             </voice>
           </Measure>
         </Staff>
@@ -46744,11 +46903,16 @@
                 </linked>
               <durationType>quarter</durationType>
               </Rest>
-            <BarLine>
-              <subtype>end</subtype>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Rest>
               <linked>
                 </linked>
-              </BarLine>
+              <durationType>measure</durationType>
+              <duration>4/4</duration>
+              </Rest>
             </voice>
           </Measure>
         </Staff>
@@ -51000,15 +51164,43 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>31</pitch>
                 <tpc>15</tpc>
                 </Note>
               </Chord>
-            <BarLine>
-              <subtype>end</subtype>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
               <linked>
                 </linked>
-              </BarLine>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      </location>
+                    </prev>
+                  </Spanner>
+                <pitch>31</pitch>
+                <tpc>15</tpc>
+                </Note>
+              </Chord>
             </voice>
           </Measure>
         </Staff>
