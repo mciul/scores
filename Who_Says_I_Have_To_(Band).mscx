@@ -14628,10 +14628,16 @@
         </Measure>
       <Measure>
         <voice>
-          <Rest>
+          <Chord>
             <linkedMain/>
             <durationType>half</durationType>
-            </Rest>
+            <Note>
+              <linkedMain/>
+              <pitch>69</pitch>
+              <tpc>17</tpc>
+              <tpc2>19</tpc2>
+              </Note>
+            </Chord>
           <Dynamic>
             <subtype>f</subtype>
             <velocity>96</velocity>
@@ -44392,11 +44398,18 @@
           </Measure>
         <Measure>
           <voice>
-            <Rest>
+            <Chord>
               <linked>
                 </linked>
               <durationType>half</durationType>
-              </Rest>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>69</pitch>
+                <tpc>17</tpc>
+                <tpc2>19</tpc2>
+                </Note>
+              </Chord>
             <Dynamic>
               <subtype>f</subtype>
               <velocity>96</velocity>
