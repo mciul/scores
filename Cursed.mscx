@@ -81191,7 +81191,7 @@
               <tempo>1.5</tempo>
               <followText>1</followText>
               <linkedMain/>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 60</text>
+              <text><b>Vigorous, menacing (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 60)</b></text>
               </Tempo>
             <RehearsalMark>
               <linkedMain/>
@@ -81228,7 +81228,7 @@
                   <staves>-3</staves>
                   </location>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 60</text>
+              <text><b>Vigorous, menacing (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 60)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
