@@ -10,11 +10,7 @@
       <pageWidth>8.27007</pageWidth>
       <pageHeight>11.6901</pageHeight>
       <pagePrintableWidth>7.48267</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -124,7 +120,7 @@
           </StaffType>
         </Staff>
       <trackName>B♭ Trumpet</trackName>
-      <Instrument>
+      <Instrument id="bb-trumpet">
         <longName>B♭ Trumpet</longName>
         <shortName>B♭ Tpt.</shortName>
         <trackName>B♭ Trumpet</trackName>
@@ -164,6 +160,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="56"/>
           <synti>Fluid</synti>
@@ -171,6 +168,7 @@
           <midiChannel>0</midiChannel>
           </Channel>
         <Channel name="mute">
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="59"/>
           <synti>Fluid</synti>
@@ -188,7 +186,7 @@
         <defaultTransposingClef>G</defaultTransposingClef>
         </Staff>
       <trackName>Tenor Saxophone</trackName>
-      <Instrument>
+      <Instrument id="tenor-saxophone">
         <longName>Tenor Saxophone</longName>
         <shortName>T. Sax.</shortName>
         <trackName>Tenor Saxophone</trackName>
@@ -230,6 +228,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="66"/>
           <synti>Fluid</synti>
@@ -246,7 +245,7 @@
         <defaultClef>F</defaultClef>
         </Staff>
       <trackName>Trombone</trackName>
-      <Instrument>
+      <Instrument id="trombone">
         <longName>Trombone</longName>
         <shortName>Tbn.</shortName>
         <trackName>Trombone</trackName>
@@ -285,6 +284,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="57"/>
           <synti>Fluid</synti>
@@ -304,7 +304,7 @@
         <distOffset>1.5</distOffset>
         </Staff>
       <trackName>Lead Guitar</trackName>
-      <Instrument>
+      <Instrument id="electric-guitar">
         <longName>Lead Guitar</longName>
         <shortName>L. Gtr.</shortName>
         <trackName>Electric Guitar</trackName>
@@ -368,7 +368,7 @@
         <barLineSpan>1</barLineSpan>
         </Staff>
       <trackName>Rhythm Guitar</trackName>
-      <Instrument>
+      <Instrument id="electric-guitar">
         <longName>Rhythm Guitar</longName>
         <shortName>R. Gtr.</shortName>
         <trackName>Electric Guitar</trackName>
@@ -438,7 +438,7 @@
         <defaultTransposingClef>F</defaultTransposingClef>
         </Staff>
       <trackName>Bass Guitar</trackName>
-      <Instrument>
+      <Instrument id="bass-guitar">
         <longName>Bass Guitar</longName>
         <shortName>B. Guit.</shortName>
         <trackName>Bass Guitar</trackName>
@@ -504,7 +504,7 @@
         <distOffset>1.5</distOffset>
         </Staff>
       <trackName>Drumset</trackName>
-      <Instrument>
+      <Instrument id="drumset">
         <longName>Drumset</longName>
         <shortName>Drs.</shortName>
         <trackName>Drumset</trackName>
@@ -762,8 +762,12 @@
             <tempo>1.675</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+            <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
             </Tempo>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>A</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -803,6 +807,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>B</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -847,6 +855,10 @@
             <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>C</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -957,6 +969,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>D</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <dots>1</dots>
@@ -1484,6 +1500,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>E</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -1528,6 +1548,10 @@
             <velocity>49</velocity>
             <linkedMain/>
             </Dynamic>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>F</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -1711,6 +1735,10 @@
             <sigN>13</sigN>
             <sigD>16</sigD>
             </TimeSig>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>G</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -2160,6 +2188,10 @@
             <sigN>13</sigN>
             <sigD>16</sigD>
             </TimeSig>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>H</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <durationType>measure</durationType>
@@ -2548,6 +2580,10 @@
             <velocity>64</velocity>
             <linkedMain/>
             </Dynamic>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>I</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -2658,6 +2694,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>J</text>
+            </RehearsalMark>
           <Rest>
             <linkedMain/>
             <dots>1</dots>
@@ -2784,6 +2824,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>K</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3774,6 +3818,10 @@
             <velocity>64</velocity>
             <linkedMain/>
             </Dynamic>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>L</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -3837,6 +3885,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>M</text>
+            </RehearsalMark>
           <Spanner type="HairPin">
             <HairPin>
               <subtype>0</subtype>
@@ -4155,6 +4207,10 @@
         </Measure>
       <Measure>
         <voice>
+          <RehearsalMark>
+            <linkedMain/>
+            <text>N</text>
+            </RehearsalMark>
           <Chord>
             <linkedMain/>
             <dots>1</dots>
@@ -20022,6 +20078,7 @@
             </Rest>
           <BarLine>
             <subtype>end</subtype>
+            <span>1</span>
             <linkedMain/>
             </BarLine>
           </voice>
@@ -46691,11 +46748,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -46795,7 +46848,7 @@
           <barLineSpan>1</barLineSpan>
           </Staff>
         <trackName>Lead Guitar</trackName>
-        <Instrument>
+        <Instrument id="electric-guitar">
           <longName>Lead Guitar</longName>
           <shortName>L. Gtr.</shortName>
           <trackName>Electric Guitar</trackName>
@@ -46858,7 +46911,7 @@
           <barLineSpan>-1</barLineSpan>
           </Staff>
         <trackName>Rhythm Guitar</trackName>
-        <Instrument>
+        <Instrument id="electric-guitar">
           <longName>Rhythm Guitar</longName>
           <shortName>R. Gtr.</shortName>
           <trackName>Electric Guitar</trackName>
@@ -46971,7 +47024,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -46980,14 +47033,23 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Chord>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
-                  <indexDiff>2</indexDiff>
+                  <indexDiff>3</indexDiff>
                   </linked>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
@@ -47529,6 +47591,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -48076,6 +48146,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -48623,6 +48702,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -50264,6 +50351,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -50307,6 +50402,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -50318,6 +50422,15 @@
         <Measure len="48/8">
           <multiMeasureRest>4</multiMeasureRest>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>48/8</duration>
@@ -50940,8 +51053,18 @@
                 <Node pos="22" action="272"/>
                 </Groups>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>13/16</duration>
@@ -51564,12 +51687,23 @@
                 <Node pos="22" action="272"/>
                 </Groups>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>61</pitch>
                 <tpc>21</tpc>
@@ -52609,8 +52743,18 @@
               <sigN>12</sigN>
               <sigD>8</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
@@ -52624,6 +52768,15 @@
               <sigN>12</sigN>
               <sigD>8</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>48/8</duration>
@@ -52670,12 +52823,22 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>61</pitch>
                 <tpc>21</tpc>
@@ -53217,6 +53380,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -54311,6 +54482,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -54351,6 +54531,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -54898,6 +55086,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -66799,11 +66995,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -66902,7 +67094,7 @@
           <defaultTransposingClef>F</defaultTransposingClef>
           </Staff>
         <trackName>Bass Guitar</trackName>
-        <Instrument>
+        <Instrument id="bass-guitar">
           <longName>Bass Guitar</longName>
           <shortName>B. Guit.</shortName>
           <trackName>Bass Guitar</trackName>
@@ -67010,7 +67202,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mf</subtype>
@@ -67019,15 +67211,241 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Chord>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
-                  <indexDiff>2</indexDiff>
+                  <indexDiff>3</indexDiff>
+                  </linked>
+                <pitch>33</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>35</pitch>
+                <tpc>19</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>37</pitch>
+                <tpc>21</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>38</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>33</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>35</pitch>
+                <tpc>19</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>37</pitch>
+                <tpc>21</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>38</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>33</pitch>
+                <tpc>17</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>35</pitch>
+                <tpc>19</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>37</pitch>
+                <tpc>21</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
+                  </linked>
+                <pitch>38</pitch>
+                <tpc>16</tpc>
+                </Note>
+              </Chord>
+            </voice>
+          </Measure>
+        <Measure>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
+            <Chord>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>whole</durationType>
+              <Note>
+                <linked>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -67213,198 +67631,14 @@
           </Measure>
         <Measure>
           <voice>
-            <Chord>
+            <RehearsalMark>
               <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
                 </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>33</pitch>
-                <tpc>17</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>35</pitch>
-                <tpc>19</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>37</pitch>
-                <tpc>21</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>38</pitch>
-                <tpc>16</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>33</pitch>
-                <tpc>17</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>35</pitch>
-                <tpc>19</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>37</pitch>
-                <tpc>21</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>38</pitch>
-                <tpc>16</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>33</pitch>
-                <tpc>17</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>35</pitch>
-                <tpc>19</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>37</pitch>
-                <tpc>21</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
-            <Chord>
-              <linked>
-                </linked>
-              <dots>1</dots>
-              <durationType>whole</durationType>
-              <Note>
-                <linked>
-                  </linked>
-                <pitch>38</pitch>
-                <tpc>16</tpc>
-                </Note>
-              </Chord>
-            </voice>
-          </Measure>
-        <Measure>
-          <voice>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -67413,13 +67647,24 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="144/8">
-          <multiMeasureRest>12</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>144/8</duration>
               </Rest>
+            <location>
+              <fractions>-12/1</fractions>
+              </location>
             <BarLine>
               </BarLine>
             </voice>
@@ -67456,11 +67701,38 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="96/8">
+          <multiMeasureRest>8</multiMeasureRest>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>96/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -67574,13 +67846,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -68834,13 +69117,24 @@
                 <Node pos="22" action="272"/>
                 </Groups>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -70093,12 +70387,23 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>16th</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -70525,6 +70830,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -71283,6 +71596,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -72517,6 +72838,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -73061,6 +73391,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -73605,6 +73943,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -75279,11 +75625,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -75382,7 +75724,7 @@
           <defaultTransposingClef>F</defaultTransposingClef>
           </Staff>
         <trackName>Bass Guitar</trackName>
-        <Instrument>
+        <Instrument id="bass-guitar">
           <longName>Bass Guitar</longName>
           <shortName>B. Guit.</shortName>
           <trackName>Bass Guitar</trackName>
@@ -75446,7 +75788,7 @@
           <defaultClef>PERC</defaultClef>
           </Staff>
         <trackName>Drumset</trackName>
-        <Instrument>
+        <Instrument id="drumset">
           <longName>Drumset</longName>
           <shortName>Drs.</shortName>
           <trackName>Drumset</trackName>
@@ -75725,7 +76067,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mf</subtype>
@@ -75734,15 +76076,24 @@
                 <indexDiff>2</indexDiff>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>6</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Chord>
               <linked>
-                <indexDiff>2</indexDiff>
+                <indexDiff>3</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
-                  <indexDiff>2</indexDiff>
+                  <indexDiff>3</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -75800,6 +76151,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -75864,6 +76223,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -75931,6 +76299,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -76123,6 +76499,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -76131,13 +76515,24 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="144/8">
-          <multiMeasureRest>12</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>144/8</duration>
               </Rest>
+            <location>
+              <fractions>-12/1</fractions>
+              </location>
             <BarLine>
               </BarLine>
             </voice>
@@ -76174,11 +76569,38 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="96/8">
+          <multiMeasureRest>8</multiMeasureRest>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>96/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -76292,13 +76714,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -77543,13 +77976,24 @@
                 <Node pos="22" action="272"/>
                 </Groups>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>eighth</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -78793,12 +79237,23 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <durationType>16th</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <pitch>33</pitch>
                 <tpc>17</tpc>
@@ -79231,6 +79686,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -79989,6 +80452,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -81235,6 +81706,15 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -81785,6 +82265,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -82335,6 +82823,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-5</staves>
+                  </location>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -84271,13 +84767,16 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="144/8">
-          <multiMeasureRest>12</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
             <Rest>
               <durationType>measure</durationType>
               <duration>144/8</duration>
               </Rest>
+            <location>
+              <fractions>-12/1</fractions>
+              </location>
             <BarLine>
               </BarLine>
             </voice>
@@ -84319,6 +84818,15 @@
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="96/8">
+          <multiMeasureRest>8</multiMeasureRest>
+          <voice>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>96/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -97717,7 +98225,7 @@
             </StaffType>
           </Staff>
         <trackName>B♭ Trumpet</trackName>
-        <Instrument>
+        <Instrument id="bb-trumpet">
           <longName>B♭ Trumpet</longName>
           <shortName>B♭ Tpt.</shortName>
           <trackName>B♭ Trumpet</trackName>
@@ -97757,11 +98265,13 @@
             <gateTime>100</gateTime>
             </Articulation>
           <Channel>
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="56"/>
             <synti>Fluid</synti>
             </Channel>
           <Channel name="mute">
+            <controller ctrl="0" value="0"/>
             <controller ctrl="32" value="17"/>
             <program value="59"/>
             <synti>Fluid</synti>
@@ -97808,8 +98318,13 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -97818,12 +98333,12 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="96/8">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-3</indexDiff>
+                <indexDiff>-4</indexDiff>
                 </linked>
               <sigN>12</sigN>
               <sigD>8</sigD>
@@ -97832,10 +98347,16 @@
               <tempo>1.675</tempo>
               <followText>1</followText>
               <linked>
-                <indexDiff>-3</indexDiff>
+                <indexDiff>-4</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <indexDiff>-4</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>96/8</duration>
@@ -97874,11 +98395,31 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <indexDiff>-2</indexDiff>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>48/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -97920,6 +98461,11 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -98039,6 +98585,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -98615,6 +99166,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -98626,6 +99182,12 @@
         <Measure len="48/8">
           <multiMeasureRest>4</multiMeasureRest>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <indexDiff>-2</indexDiff>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>48/8</duration>
@@ -98670,6 +99232,11 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -98872,6 +99439,11 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -98885,11 +99457,17 @@
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-2</indexDiff>
+                <indexDiff>-3</indexDiff>
                 </linked>
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <indexDiff>-3</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>78/16</duration>
@@ -99404,6 +99982,11 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -99417,11 +100000,17 @@
           <voice>
             <TimeSig>
               <linked>
-                <indexDiff>-2</indexDiff>
+                <indexDiff>-3</indexDiff>
                 </linked>
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <indexDiff>-3</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>52/16</duration>
@@ -99879,6 +100468,11 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -99998,6 +100592,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -100135,6 +100734,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -101317,6 +101921,11 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -101385,6 +101994,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>0</subtype>
@@ -101741,6 +102355,11 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -102261,11 +102880,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -102364,7 +102979,7 @@
           <defaultTransposingClef>G</defaultTransposingClef>
           </Staff>
         <trackName>Tenor Saxophone</trackName>
-        <Instrument>
+        <Instrument id="tenor-saxophone">
           <longName>Tenor Saxophone</longName>
           <shortName>T. Sax.</shortName>
           <trackName>Tenor Saxophone</trackName>
@@ -102465,8 +103080,17 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 <indexDiff>2</indexDiff>
@@ -102476,8 +103100,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="96/8">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
             <KeySig>
               <accidental>5</accidental>
@@ -102495,12 +103119,24 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>96/8</duration>
               </Rest>
+            <location>
+              <fractions>-6/1</fractions>
+              </location>
             <BarLine>
               </BarLine>
             </voice>
@@ -102537,11 +103173,36 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>48/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -102583,17 +103244,29 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
+                      <indexDiff>1</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -102702,6 +103375,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -103301,6 +103982,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -103315,6 +104004,14 @@
             <subtype>line</subtype>
             </LayoutBreak>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>48/8</duration>
@@ -103364,13 +104061,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
@@ -103566,8 +104274,18 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>13/16</duration>
@@ -103584,6 +104302,15 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>78/16</duration>
@@ -104112,8 +104839,18 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>13/16</duration>
@@ -104127,6 +104864,15 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>52/16</duration>
@@ -104591,17 +105337,29 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
+                      <indexDiff>2</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -104710,6 +105468,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -104850,6 +105616,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -105987,13 +106761,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>64</pitch>
                 <tpc>18</tpc>
@@ -106055,6 +106840,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>0</subtype>
@@ -106511,6 +107304,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -107031,11 +107832,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -107133,7 +107930,7 @@
           <defaultClef>F</defaultClef>
           </Staff>
         <trackName>Trombone</trackName>
-        <Instrument>
+        <Instrument id="trombone">
           <longName>Trombone</longName>
           <shortName>Tbn.</shortName>
           <trackName>Trombone</trackName>
@@ -107231,8 +108028,17 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 <indexDiff>2</indexDiff>
@@ -107242,8 +108048,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="96/8">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
           <voice>
             <KeySig>
               <accidental>3</accidental>
@@ -107261,12 +108067,24 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym><sym>space</sym><sym>metAugmentationDot</sym> = 67</text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
               </Tempo>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>5</indexDiff>
+                </linked>
+              <text>A</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>96/8</duration>
               </Rest>
+            <location>
+              <fractions>-6/1</fractions>
+              </location>
             <BarLine>
               </BarLine>
             </voice>
@@ -107303,11 +108121,36 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
               <durationType>measure</durationType>
               <duration>12/8</duration>
+              </Rest>
+            </voice>
+          </Measure>
+        <Measure len="48/8">
+          <multiMeasureRest>4</multiMeasureRest>
+          <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>B</text>
+              </RehearsalMark>
+            <Rest>
+              <durationType>measure</durationType>
+              <duration>48/8</duration>
               </Rest>
             </voice>
           </Measure>
@@ -107349,17 +108192,29 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>C</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
+                      <indexDiff>1</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -107446,6 +108301,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -107463,6 +108321,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>D</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -107560,9 +108426,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <prev>
@@ -107749,6 +108612,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Spanner type="HairPin">
               <HairPin>
@@ -108005,9 +108871,6 @@
             </voice>
           </Measure>
         <Measure>
-          <LayoutBreak>
-            <subtype>line</subtype>
-            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -108044,6 +108907,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -108054,7 +108925,18 @@
           </Measure>
         <Measure len="48/8">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>E</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>48/8</duration>
@@ -108084,6 +108966,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -108101,13 +108986,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>F</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>57</pitch>
                 <tpc>17</tpc>
@@ -108265,6 +109161,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <TimeSig>
               <linked>
@@ -108295,8 +109194,18 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>13/16</duration>
@@ -108313,6 +109222,15 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>G</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>78/16</duration>
@@ -108815,8 +109733,18 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <durationType>measure</durationType>
               <duration>13/16</duration>
@@ -108830,6 +109758,15 @@
               <sigN>13</sigN>
               <sigD>16</sigD>
               </TimeSig>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>H</text>
+              </RehearsalMark>
             <Rest>
               <durationType>measure</durationType>
               <duration>52/16</duration>
@@ -109276,17 +110213,29 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>2</indexDiff>
+                </linked>
+              <text>I</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>2</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>2</indexDiff>
                   </linked>
                 <Spanner type="Tie">
                   <Tie>
                     <linked>
+                      <indexDiff>2</indexDiff>
                       </linked>
                     </Tie>
                   <next>
@@ -109390,6 +110339,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>J</text>
+              </RehearsalMark>
             <Rest>
               <linked>
                 </linked>
@@ -109525,6 +110482,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>K</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
@@ -110642,13 +111607,24 @@
               <linked>
                 </linked>
               </Dynamic>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                <indexDiff>1</indexDiff>
+                </linked>
+              <text>L</text>
+              </RehearsalMark>
             <Chord>
               <linked>
+                <indexDiff>1</indexDiff>
                 </linked>
               <dots>1</dots>
               <durationType>whole</durationType>
               <Note>
                 <linked>
+                  <indexDiff>1</indexDiff>
                   </linked>
                 <pitch>57</pitch>
                 <tpc>17</tpc>
@@ -110689,6 +111665,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -110706,6 +111685,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>M</text>
+              </RehearsalMark>
             <Spanner type="HairPin">
               <HairPin>
                 <subtype>0</subtype>
@@ -111055,6 +112042,14 @@
           </Measure>
         <Measure>
           <voice>
+            <RehearsalMark>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>N</text>
+              </RehearsalMark>
             <Chord>
               <linked>
                 </linked>
