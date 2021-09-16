@@ -857,7 +857,7 @@
             <tempo>2.1666666666666665</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+            <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
             </Tempo>
           <RehearsalMark>
             <linkedMain/>
@@ -932,6 +932,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <SystemText>
+            <linkedMain/>
+            <text>Verse 1</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>half</durationType>
@@ -1604,6 +1608,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <SystemText>
+            <linkedMain/>
+            <text>Verse 2</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>half</durationType>
@@ -2146,6 +2154,10 @@
             <linkedMain/>
             <text>E</text>
             </RehearsalMark>
+          <SystemText>
+            <linkedMain/>
+            <text>Instrumental break</text>
+            </SystemText>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -2278,6 +2290,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <SystemText>
+            <linkedMain/>
+            <text>Chorus</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>half</durationType>
@@ -2723,6 +2739,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <SystemText>
+            <linkedMain/>
+            <text>Verse 3</text>
+            </SystemText>
           <Rest>
             <linkedMain/>
             <durationType>half</durationType>
@@ -3372,6 +3392,10 @@
           <subtype>line</subtype>
           </LayoutBreak>
         <voice>
+          <SystemText>
+            <linkedMain/>
+            <text>Chorus</text>
+            </SystemText>
           <Chord>
             <linkedMain/>
             <durationType>quarter</durationType>
@@ -5411,8 +5435,8 @@
             <linkedMain/>
             <durationType>whole</durationType>
             <Lyrics>
-              <ticks>9600</ticks>
-              <ticks_f>20/4</ticks_f>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <linkedMain/>
               <text>Ooh</text>
               </Lyrics>
@@ -5525,7 +5549,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <ticks>1920</ticks>
-              <ticks_f>1/1</ticks_f>
+              <ticks_f>4/4</ticks_f>
               <linkedMain/>
               <text>Ahh</text>
               </Lyrics>
@@ -5648,8 +5672,8 @@
             <linkedMain/>
             <durationType>whole</durationType>
             <Lyrics>
-              <ticks>9600</ticks>
-              <ticks_f>20/4</ticks_f>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <linkedMain/>
               <text>Ooh</text>
               </Lyrics>
@@ -5763,7 +5787,7 @@
             <durationType>whole</durationType>
             <Lyrics>
               <ticks>1920</ticks>
-              <ticks_f>1/1</ticks_f>
+              <ticks_f>4/4</ticks_f>
               <linkedMain/>
               <text>Ahh</text>
               </Lyrics>
@@ -31924,7 +31948,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -31955,7 +31979,7 @@
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -32030,7 +32054,15 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -32377,6 +32409,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -32681,6 +32716,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -32834,7 +32872,15 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -33101,6 +33147,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -33402,6 +33451,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -33474,6 +33526,11 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -33517,6 +33574,9 @@
           </Measure>
         <Measure len="28/4">
           <multiMeasureRest>7</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -33575,6 +33635,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -33635,7 +33698,15 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -33966,6 +34037,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -34105,6 +34179,9 @@
           </Measure>
         <Measure len="8/4">
           <multiMeasureRest>2</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -34113,6 +34190,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -34173,7 +34253,15 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -34491,6 +34579,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -34938,7 +35029,15 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -35327,6 +35426,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -35605,6 +35707,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -35839,6 +35944,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -36024,6 +36132,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -36238,6 +36349,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -36492,6 +36606,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -36677,6 +36794,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -37363,7 +37483,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37383,8 +37503,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="32/4">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="28/4">
+          <multiMeasureRest>7</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -37401,7 +37521,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37480,6 +37600,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -37620,8 +37748,8 @@
                 </linked>
               <durationType>whole</durationType>
               <Lyrics>
-                <ticks>9600</ticks>
-                <ticks_f>20/4</ticks_f>
+                <ticks>1920</ticks>
+                <ticks_f>4/4</ticks_f>
                 <linked>
                   </linked>
                 <text>Ooh</text>
@@ -37747,7 +37875,7 @@
               <durationType>whole</durationType>
               <Lyrics>
                 <ticks>1920</ticks>
-                <ticks_f>1/1</ticks_f>
+                <ticks_f>4/4</ticks_f>
                 <linked>
                   </linked>
                 <text>Ahh</text>
@@ -37818,6 +37946,14 @@
             <subtype>line</subtype>
             </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -37896,8 +38032,8 @@
                 </linked>
               <durationType>whole</durationType>
               <Lyrics>
-                <ticks>9600</ticks>
-                <ticks_f>20/4</ticks_f>
+                <ticks>1920</ticks>
+                <ticks_f>4/4</ticks_f>
                 <linked>
                   </linked>
                 <text>Ooh</text>
@@ -38024,7 +38160,7 @@
               <durationType>whole</durationType>
               <Lyrics>
                 <ticks>1920</ticks>
-                <ticks_f>1/1</ticks_f>
+                <ticks_f>4/4</ticks_f>
                 <linked>
                   </linked>
                 <text>Ahh</text>
@@ -38092,6 +38228,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -38641,6 +38780,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -38776,6 +38918,14 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -38970,7 +39120,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -39405,6 +39566,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -39698,6 +39862,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -39763,7 +39930,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -40662,7 +40840,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-1</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -40899,6 +41088,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -41198,6 +41390,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -42129,6 +42324,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -42522,6 +42720,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -42841,6 +43042,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -43932,7 +44136,7 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>Sax</text>
+            <text>Tenor Sax</text>
             </Text>
           </VBox>
         <Measure>
@@ -43957,7 +44161,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -43977,8 +44181,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="32/4">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="28/4">
+          <multiMeasureRest>7</multiMeasureRest>
           <voice>
             <KeySig>
               <accidental>3</accidental>
@@ -43996,7 +44200,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -44012,7 +44216,7 @@
               <duration>80/4</duration>
               </Rest>
             <location>
-              <fractions>-12/1</fractions>
+              <fractions>-13/1</fractions>
               </location>
             <BarLine>
               </BarLine>
@@ -44080,6 +44284,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -44302,6 +44514,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -44351,6 +44571,9 @@
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <RehearsalMark>
               <linked>
@@ -44387,6 +44610,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -44503,6 +44729,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -44543,6 +44772,14 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -44801,6 +45038,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -45041,6 +45281,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -45399,6 +45642,14 @@
             <subtype>line</subtype>
             </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -45535,6 +45786,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -45665,6 +45919,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -45862,7 +46119,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -45979,6 +46247,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -46113,6 +46384,14 @@
             <subtype>line</subtype>
             </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-3</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -46276,6 +46555,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -46893,6 +47175,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -47147,6 +47432,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -47407,6 +47695,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -47760,6 +48051,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -48050,6 +48344,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -48365,7 +48662,7 @@
             </voice>
           </Measure>
         </Staff>
-      <name>Sax</name>
+      <name>Tenor Saxophone</name>
       </Score>
     <Score>
       <LayerTag id="0" tag="default"></LayerTag>
@@ -48624,7 +48921,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48644,8 +48941,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="32/4">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="28/4">
+          <multiMeasureRest>7</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -48662,7 +48959,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48741,6 +49038,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -48960,6 +49265,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -49008,6 +49321,9 @@
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <RehearsalMark>
               <linked>
@@ -49044,6 +49360,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -49168,6 +49487,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -49213,6 +49535,14 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -49450,6 +49780,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -49655,6 +49988,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -50006,7 +50342,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -50157,6 +50504,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -50339,6 +50689,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -50557,7 +50910,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -50708,6 +51072,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -50890,7 +51257,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-4</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -51065,6 +51443,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -51310,6 +51691,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -51585,6 +51969,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -51791,6 +52178,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -52046,6 +52436,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -52288,6 +52681,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -52477,6 +52873,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -53024,7 +53423,7 @@
             </Text>
           <Text>
             <style>Instrument Name (Part)</style>
-            <text>Trumpet</text>
+            <text>B♭ Trumpet</text>
             </Text>
           </VBox>
         <Measure>
@@ -53049,7 +53448,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53069,8 +53468,8 @@
               </Rest>
             </voice>
           </Measure>
-        <Measure len="32/4">
-          <multiMeasureRest>8</multiMeasureRest>
+        <Measure len="28/4">
+          <multiMeasureRest>7</multiMeasureRest>
           <voice>
             <TimeSig>
               <linked>
@@ -53087,7 +53486,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53166,6 +53565,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -53388,6 +53795,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -53437,6 +53852,9 @@
           </Measure>
         <Measure len="16/4">
           <multiMeasureRest>4</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <RehearsalMark>
               <linked>
@@ -53473,6 +53891,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -53582,6 +54003,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -53622,6 +54046,14 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -53894,6 +54326,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -54134,6 +54569,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -54429,7 +54867,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -54617,6 +55066,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -54747,6 +55199,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -54944,7 +55399,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Rest>
               <linked>
                 </linked>
@@ -55061,6 +55527,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -55191,7 +55660,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-2</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -55355,6 +55835,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -55662,6 +56145,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -56018,6 +56504,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -56282,6 +56771,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -56542,6 +57034,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -56877,6 +57372,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -57225,6 +57723,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -57571,7 +58072,7 @@
             </voice>
           </Measure>
         </Staff>
-      <name>Trumpet</name>
+      <name>B♭ Trumpet</name>
       </Score>
     <Score>
       <LayerTag id="0" tag="default"></LayerTag>
@@ -57831,7 +58332,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -58033,7 +58534,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Verse 1</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -58317,6 +58829,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -58472,6 +58987,14 @@
           </Measure>
         <Measure>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Verse 2</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -58609,6 +59132,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -58739,6 +59265,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -58763,6 +59292,14 @@
                 </linked>
               <text>E</text>
               </RehearsalMark>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Instrumental break</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -58861,6 +59398,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -59013,6 +59553,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -59173,7 +59716,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -59305,6 +59859,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -59435,6 +59992,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -59632,7 +60192,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Verse 3</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -59959,7 +60530,18 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
+            <SystemText>
+              <linked>
+                <location>
+                  <staves>-6</staves>
+                  </location>
+                </linked>
+              <text>Chorus</text>
+              </SystemText>
             <Chord>
               <linked>
                 </linked>
@@ -60436,6 +61018,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -61005,6 +61590,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
