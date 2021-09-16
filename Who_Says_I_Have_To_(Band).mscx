@@ -854,10 +854,10 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>2.1666699999999999</tempo>
+            <tempo>2.1666666666666665</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym> = 130</text>
+            <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
             </Tempo>
           <RehearsalMark>
             <linkedMain/>
@@ -31920,11 +31920,11 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -31950,12 +31950,12 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37355,7 +37355,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -37363,7 +37363,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37393,7 +37393,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -37401,7 +37401,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -43949,7 +43949,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -43957,7 +43957,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -43988,7 +43988,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -43996,7 +43996,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48616,7 +48616,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -48624,7 +48624,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48654,7 +48654,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -48662,7 +48662,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53041,7 +53041,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -53049,7 +53049,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53079,7 +53079,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -53087,7 +53087,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -57823,7 +57823,7 @@
               <sigD>4</sigD>
               </TimeSig>
             <Tempo>
-              <tempo>2.1666699999999999</tempo>
+              <tempo>2.1666666666666665</tempo>
               <followText>1</followText>
               <linked>
                 <location>
@@ -57831,7 +57831,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><sym>metNoteQuarterUp</sym> = 130</text>
+              <text><b>Punctual but unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
