@@ -857,7 +857,7 @@
             <tempo>2.1666666666666665</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+            <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
             </Tempo>
           <RehearsalMark>
             <linkedMain/>
@@ -31948,7 +31948,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -31979,7 +31979,7 @@
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37483,7 +37483,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37521,7 +37521,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -37636,6 +37636,9 @@
           </Measure>
         <Measure len="32/4">
           <multiMeasureRest>8</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <RehearsalMark>
               <linked>
@@ -37712,6 +37715,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -38997,6 +39003,9 @@
           </Measure>
         <Measure len="28/4">
           <multiMeasureRest>7</multiMeasureRest>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <durationType>measure</durationType>
@@ -39055,6 +39064,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Rest>
               <linked>
@@ -44161,7 +44173,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -44200,7 +44212,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48921,7 +48933,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -48959,7 +48971,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53448,7 +53460,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -53486,7 +53498,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -58332,7 +58344,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Sassy, unhurried (</b><font face="ScoreText"/><b><font face="Edwin"/> = 130)</b></text>
+              <text><b>Sassy, unhurried (</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 130)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
