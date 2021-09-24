@@ -3,6 +3,7 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
+    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -762,7 +763,7 @@
             <tempo>1.675</tempo>
             <followText>1</followText>
             <linkedMain/>
-            <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+            <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
             </Tempo>
           <RehearsalMark>
             <linkedMain/>
@@ -8055,6 +8056,16 @@
             <durationType>quarter</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <fractions>1/4</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>69</pitch>
               <tpc>17</tpc>
               <tpc2>19</tpc2>
@@ -8087,6 +8098,13 @@
                     <fractions>-1/1</fractions>
                     </location>
                   </next>
+                </Spanner>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <fractions>-1/4</fractions>
+                    </location>
+                  </prev>
                 </Spanner>
               <pitch>69</pitch>
               <tpc>17</tpc>
@@ -47024,7 +47042,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mp</subtype>
@@ -67202,7 +67220,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mf</subtype>
@@ -76067,7 +76085,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <Dynamic>
               <subtype>mf</subtype>
@@ -98318,7 +98336,7 @@
               <followText>1</followText>
               <linked>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -98349,7 +98367,7 @@
               <linked>
                 <indexDiff>-4</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -103131,7 +103149,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -103170,7 +103188,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -107321,6 +107339,17 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <fractions>1/4</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>69</pitch>
                 <tpc>17</tpc>
                 <tpc2>19</tpc2>
@@ -107357,6 +107386,13 @@
                       <fractions>-1/1</fractions>
                       </location>
                     </next>
+                  </Spanner>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <fractions>-1/4</fractions>
+                      </location>
+                    </prev>
                   </Spanner>
                 <pitch>69</pitch>
                 <tpc>17</tpc>
@@ -108097,7 +108133,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
@@ -108136,7 +108172,7 @@
                   </location>
                 <indexDiff>5</indexDiff>
                 </linked>
-              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"/> <b><font face="Edwin"/> = 67)</b></text>
+              <text><b>Awakening at the moment of fullest rest (</b><font face="ScoreText"></font> <b><font face="Edwin"></font> = 67)</b></text>
               </Tempo>
             <RehearsalMark>
               <linked>
