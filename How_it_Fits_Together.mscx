@@ -3,7 +3,6 @@
   <programVersion>3.6.2</programVersion>
   <programRevision>3224f34</programRevision>
   <Score>
-    <layoutMode>line</layoutMode>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
     <Division>480</Division>
@@ -35520,25 +35519,14 @@
         <voice>
           <Chord>
             <linkedMain/>
-            <durationType>eighth</durationType>
+            <dots>1</dots>
+            <durationType>whole</durationType>
             <Note>
               <linkedMain/>
               <pitch>45</pitch>
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Rest>
-            <linkedMain/>
-            <durationType>eighth</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>quarter</durationType>
-            </Rest>
-          <Rest>
-            <linkedMain/>
-            <durationType>whole</durationType>
-            </Rest>
           <BarLine>
             <subtype>end</subtype>
             </BarLine>
@@ -67493,6 +67481,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -68023,6 +68014,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -68443,6 +68437,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -68863,6 +68860,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -69294,6 +69294,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -69714,6 +69717,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -70134,6 +70140,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -71870,6 +71879,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -72236,6 +72248,9 @@
             </voice>
           </Measure>
         <Measure>
+          <LayoutBreak>
+            <subtype>line</subtype>
+            </LayoutBreak>
           <voice>
             <Chord>
               <linked>
@@ -75666,7 +75681,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <dots>1</dots>
+              <durationType>whole</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -75674,21 +75690,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>whole</durationType>
-              </Rest>
             <BarLine>
               <subtype>end</subtype>
               </BarLine>
@@ -84562,7 +84563,8 @@
             <Chord>
               <linked>
                 </linked>
-              <durationType>eighth</durationType>
+              <dots>1</dots>
+              <durationType>whole</durationType>
               <Note>
                 <linked>
                   </linked>
@@ -84570,21 +84572,6 @@
                 <tpc>17</tpc>
                 </Note>
               </Chord>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>eighth</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>quarter</durationType>
-              </Rest>
-            <Rest>
-              <linked>
-                </linked>
-              <durationType>whole</durationType>
-              </Rest>
             <BarLine>
               <subtype>end</subtype>
               </BarLine>
