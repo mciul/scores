@@ -10,11 +10,7 @@
       <pageWidth>8.5</pageWidth>
       <pageHeight>11</pageHeight>
       <pagePrintableWidth>7.7126</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
       <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
       <pageOddBottomMargin>0.787403</pageOddBottomMargin>
       <lyricsMinDistance>0.25</lyricsMinDistance>
       <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -126,7 +122,7 @@
         <bracket type="0" span="1" col="0"/>
         </Staff>
       <trackName>Lead Vocals</trackName>
-      <Instrument>
+      <Instrument id="voice">
         <longName>Lead Vocals</longName>
         <shortName>L. Voc.</shortName>
         <trackName>Voice</trackName>
@@ -164,6 +160,7 @@
           <gateTime>100</gateTime>
           </Articulation>
         <Channel>
+          <controller ctrl="0" value="0"/>
           <controller ctrl="32" value="17"/>
           <program value="54"/>
           <controller ctrl="7" value="127"/>
@@ -205,7 +202,7 @@
         <defaultClef>G8vb</defaultClef>
         </Staff>
       <trackName>Rhythm Guitar</trackName>
-      <Instrument>
+      <Instrument id="electric-guitar">
         <longName>Rhythm Guitar</longName>
         <shortName>R. Gtr.</shortName>
         <trackName>Electric Guitar</trackName>
@@ -298,7 +295,7 @@
         <defaultTransposingClef>F</defaultTransposingClef>
         </Staff>
       <trackName>Bass Guitar</trackName>
-      <Instrument>
+      <Instrument id="bass-guitar">
         <longName>Bass Guitar</longName>
         <shortName>B. Guit.</shortName>
         <trackName>Bass Guitar</trackName>
@@ -14380,6 +14377,17 @@
             <durationType>eighth</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <Tie>
+                  <linkedMain/>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>36</pitch>
               <tpc>14</tpc>
               <fret>5</fret>
@@ -14395,6 +14403,14 @@
             <durationType>half</durationType>
             <Note>
               <linkedMain/>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>36</pitch>
               <tpc>14</tpc>
               <fret>5</fret>
@@ -17591,6 +17607,18 @@
             <Note>
               <linked>
                 </linked>
+              <Spanner type="Tie">
+                <Tie>
+                  <linked>
+                    </linked>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    <fractions>-7/8</fractions>
+                    </location>
+                  </next>
+                </Spanner>
               <pitch>36</pitch>
               <tpc>14</tpc>
               <fret>5</fret>
@@ -17608,6 +17636,14 @@
             <Note>
               <linked>
                 </linked>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    <fractions>7/8</fractions>
+                    </location>
+                  </prev>
+                </Spanner>
               <pitch>36</pitch>
               <tpc>14</tpc>
               <fret>5</fret>
@@ -17793,11 +17829,7 @@
         <pageWidth>8.5</pageWidth>
         <pageHeight>11</pageHeight>
         <pagePrintableWidth>7.7126</pagePrintableWidth>
-        <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-        <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-        <pageEvenTopMargin>0.393701</pageEvenTopMargin>
         <pageEvenBottomMargin>0.787403</pageEvenBottomMargin>
-        <pageOddTopMargin>0.393701</pageOddTopMargin>
         <pageOddBottomMargin>0.787403</pageOddBottomMargin>
         <lyricsMinDistance>0.25</lyricsMinDistance>
         <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
@@ -17895,7 +17927,7 @@
           <bracket type="0" span="1" col="0"/>
           </Staff>
         <trackName>Lead Vocals</trackName>
-        <Instrument>
+        <Instrument id="voice">
           <longName>Lead Vocals</longName>
           <shortName>L. Voc.</shortName>
           <trackName>Voice</trackName>
@@ -17977,7 +18009,7 @@
           <defaultTransposingClef>F</defaultTransposingClef>
           </Staff>
         <trackName>Bass Guitar</trackName>
-        <Instrument>
+        <Instrument id="bass-guitar">
           <longName>Bass Guitar</longName>
           <shortName>B. Guit.</shortName>
           <trackName>Bass Guitar</trackName>
@@ -25193,6 +25225,18 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-7/8</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>36</pitch>
                 <tpc>14</tpc>
                 <fret>5</fret>
@@ -25210,6 +25254,14 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>7/8</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>36</pitch>
                 <tpc>14</tpc>
                 <fret>5</fret>
@@ -28440,6 +28492,18 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <Tie>
+                    <linked>
+                      </linked>
+                    </Tie>
+                  <next>
+                    <location>
+                      <measures>1</measures>
+                      <fractions>-7/8</fractions>
+                      </location>
+                    </next>
+                  </Spanner>
                 <pitch>36</pitch>
                 <tpc>14</tpc>
                 <fret>5</fret>
@@ -28457,6 +28521,14 @@
               <Note>
                 <linked>
                   </linked>
+                <Spanner type="Tie">
+                  <prev>
+                    <location>
+                      <measures>-1</measures>
+                      <fractions>7/8</fractions>
+                      </location>
+                    </prev>
+                  </Spanner>
                 <pitch>36</pitch>
                 <tpc>14</tpc>
                 <fret>5</fret>
@@ -28776,7 +28848,7 @@
           <defaultClef>G8vb</defaultClef>
           </Staff>
         <trackName>Rhythm Guitar</trackName>
-        <Instrument>
+        <Instrument id="electric-guitar">
           <longName>Rhythm Guitar</longName>
           <shortName>R. Gtr.</shortName>
           <trackName>Electric Guitar</trackName>
