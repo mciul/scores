@@ -31525,7 +31525,12 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -31614,7 +31619,12 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -31703,7 +31713,12 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -31792,7 +31807,12 @@
             </Chord>
           <Rest>
             <linkedMain/>
-            <durationType>half</durationType>
+            <durationType>eighth</durationType>
+            </Rest>
+          <Rest>
+            <linkedMain/>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
@@ -70939,7 +70959,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -71047,7 +71073,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -71155,7 +71187,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -71263,7 +71301,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -79971,7 +80015,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -80082,7 +80132,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -80190,7 +80246,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
@@ -80301,7 +80363,13 @@
             <Rest>
               <linked>
                 </linked>
-              <durationType>half</durationType>
+              <durationType>eighth</durationType>
+              </Rest>
+            <Rest>
+              <linked>
+                </linked>
+              <dots>1</dots>
+              <durationType>quarter</durationType>
               </Rest>
             </voice>
           </Measure>
