@@ -173,6 +173,10 @@
           <program value="0"/>
           <synti>Fluid</synti>
           </Channel>
+        <Channel name="harmony">
+          <program value="0"/>
+          <synti>Fluid</synti>
+          </Channel>
         </Instrument>
       </Part>
     <Staff id="1">
@@ -220,6 +224,10 @@
       <Measure>
         <startRepeat/>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -354,6 +362,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -441,6 +453,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -575,6 +591,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
@@ -634,6 +654,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -764,6 +788,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -838,6 +866,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -913,6 +945,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1002,6 +1038,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1141,6 +1181,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1231,6 +1275,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1371,6 +1419,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1444,14 +1496,18 @@
               <text>I'm</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>mi6#11</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1464,8 +1520,8 @@
               <text>Board</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1480,8 +1536,8 @@
               <text>ing</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1495,10 +1551,10 @@
               </Lyrics>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -1515,8 +1571,8 @@
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -1592,6 +1648,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6#11</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1733,6 +1793,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>7</name>
+            </Harmony>
           <Spanner type="Volta">
             <Volta>
               <endHookType>1</endHookType>
@@ -1802,6 +1866,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -1854,6 +1922,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -1939,6 +2011,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>7</name>
+            </Harmony>
           <Spanner type="Volta">
             <Volta>
               <beginText>2.</beginText>
@@ -1992,6 +2068,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7b9</name>
+            </Harmony>
           <Spanner type="Volta">
             <prev>
               <location>
@@ -2066,6 +2146,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -2105,6 +2189,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>mi6#11</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2113,8 +2201,8 @@
               <text>Ga</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2125,8 +2213,8 @@
               <text>ther</text>
               </Lyrics>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2136,10 +2224,10 @@
               </Lyrics>
             <Note>
               <Accidental>
-                <subtype>accidentalSharp</subtype>
+                <subtype>accidentalNatural</subtype>
                 </Accidental>
-              <pitch>66</pitch>
-              <tpc>20</tpc>
+              <pitch>64</pitch>
+              <tpc>18</tpc>
               </Note>
             </Chord>
           <Chord>
@@ -2151,8 +2239,8 @@
               <subtype>articStaccatoBelow</subtype>
               </Articulation>
             <Note>
-              <pitch>67</pitch>
-              <tpc>15</tpc>
+              <pitch>65</pitch>
+              <tpc>13</tpc>
               </Note>
             </Chord>
           </voice>
@@ -2210,6 +2298,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6#11</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2316,6 +2408,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>16</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2370,6 +2466,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <durationType>quarter</durationType>
             <Lyrics>
@@ -2422,6 +2522,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -2495,6 +2599,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>15</root>
+            <name>7</name>
+            </Harmony>
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
@@ -2563,6 +2671,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            <name>mi6</name>
+            </Harmony>
           <Chord>
             <durationType>half</durationType>
             <Spanner type="Slur">
